@@ -1,0 +1,1042 @@
+date	authors	isbn	title
+November 2015	['Ryan Betts', 'John Hugg']	0636920045809	Fast Data: Smart and at Scale
+November 2015	['C.J. Date']	0636920046158	SQL and Relational Theory, 3rd Edition
+November 2015	['Federico Castanedo']	0636920045120	Data Preparation in the Big Data Era
+November 2015	['Benjamin Bengfort', 'Jenny Kim']	0636920035275	Data Analytics with Hadoop
+October 2015	['Gregory Lee']	9781629598413	Business Statistics Made Easy in SAS
+October 2015	['Vinay Singh']	9781782174110	Real Time Analytics with SAP HANA
+October 2015	['Arun Manivannan']	9781784396749	Scala Data Analysis Cookbook
+October 2015	['Cory Lesmeister']	9781783984527	Mastering Machine Learning with R
+October 2015	['Dr. Hari M. Koduvely']	9781783987603	Learning Bayesian Models with R
+October 2015	['Prasad Kothari']	9781782173175	Data Analysis with Stata
+October 2015	['Emilien Kenler', 'Federico Razzoli']	9781783982868	MariaDB Essentials
+October 2015	['Mike Barlow']	0636920044284	Learning to Love Data Science
+October 2015	['Kirthi Raman']	9781783988327	Mastering Python Data Visualization
+October 2015	['Vishal Shukla']	9781785288999	Elasticsearch for Hadoop
+October 2015	['Andy Oram']	0636920046325	Managing the Data Lake
+October 2015	['Cyrille Rossant']	9781783986989	Learning IPython for Interactive Computing and Data Visualization, 2nd Edition
+October 2015	['Bill Hinderman']	9781119067146	Building Responsive Data Visualization for the Web
+October 2015	['Julian Villafuerte']	9781782175735	Creating Stunning Dashboards with QlikView
+October 2015	['John Jay Hilfiger']	0636920038382	Graphing Data with R
+October 2015	['Franklin Lu']	0636920043980	Private and Open Data in Asia: A Regional Guide
+October 2015	['Hernan G Resnizky']	9781785280900	Learning Shiny
+October 2015	['Molly Monsey', 'Paul Sochan']	9781119134794	Tableau For Dummies
+October 2015	['Michael R. Brzustowicz']	0636920043171	Data Science with Java
+October 2015	['Ashish Gupta']	9781783284436	Apache Mahout Clustering Designs
+October 2015	['Jacqueline  Kazil', 'Katharine Jarmul']	0636920032861	Data Wrangling with Python
+September 2015	['Gergely Dar\xc3\xb3czi']	9781783982028	Mastering Data Analysis with R
+September 2015	['Luis Augusto Weir', 'Andrew Bell', 'Rolando Carrasco', 'Arturo Viveros']	9781785283635	Oracle API Management 12c Implementation
+September 2015	['Mike Frampton']	9781783987146	Mastering Apache Spark
+September 2015	['Suresh K. Gorakala', 'Michele Usuelli']	9781783554492	Building a Recommendation System with R
+September 2015	['B. Diane Blackwood']	9781784395742	QlikView for Finance
+September 2015	['Philip (flip) Kromer', 'Russell Jurney']	0636920039006	Big Data for Chimps
+September 2015	['Sumit Gupta']	9781783987665	Learning Real-time Processing with Spark Streaming
+September 2015	['Tanmay Deshpande']	9781784393755	DynamoDB Cookbook
+September 2015	['Eric Mayor']	9781782169352	Learning Predictive Analytics with R
+September 2015	['Sharan Kumar Ravindran', 'Vikram Garg']	9781784396312	Mastering Social Media Mining with R
+September 2015	['Sebastian Raschka']	9781783555130	Python Machine Learning
+September 2015	['Ken Doman']	9781784396459	Mastering ArcGIS Server Development with JavaScript
+September 2015	['Ron Cody']	9781629597706	An Introduction to SAS University Edition
+September 2015	['Dan Linstedt', 'Michael Olschimke']	9780128025109	Building a Scalable Data Warehouse with Data Vault 2.0
+September 2015	['Branden R. Williams']	9780128046272	PCI DSS 3.1
+September 2015	['Alistair Croll']	0636920042471	Music Science
+September 2015	['John King', 'Roger Magoulas']	0636920041375	2015 Data Science Salary Survey
+September 2015	['Russell Jurney']	0636920041016	Mapping Big Data
+September 2015	['Rindra Ramamonjison']	9781784391805	Apache Spark Graph Processing
+September 2015	['Steven Feuerstein', 'Bill Pribyl', 'Chip Dawes']	0636920036913	Oracle PL/SQL Language Pocket Reference, 5th Edition
+September 2015	['Alice Zheng']	0636920042518	Evaluating Machine Learning Models
+September 2015	['Maxwell Dayvson Da Silva', 'Hugo Lopes Tavares']	9781784392451	Redis Essentials
+September 2015	['Dmitry Anoshin']	9781785281815	SAP Lumira Essentials
+September 2015	['Henry Garner']	9781784397180	Clojure for Data Science
+September 2015	['Liza Kindred']	0636920042013	Fashioning Data: A 2015 Update
+September 2015	['Thomas Zimmermann', 'Tim Menzies', 'Christian Bird']	9780124115194	The Art and Science of Analyzing Software Data
+September 2015	['Janine Barlow']	0636920040910	Data Analytics in Sports
+September 2015	['Jean-Marc Spaggiari', "Kevin O'Dell"]	0636920035688	Architecting HBase Applications
+September 2015	['Cornelia L\xc3\xa9vy-Bencheton']	0636920042389	Data, Money, and Regulation
+August 2015	['Samir Madhavan']	9781784390150	Mastering Python for Data Science
+August 2015	['Akhil Arora', 'Shrey Mehrotra']	9781784393960	Learning YARN
+August 2015	['Mikhail Gilula']	9780128046319	Structured Search for Big Data
+August 2015	['Joe Sremack']	9781785288104	Big Data Forensics – Learning Hadoop Investigations
+August 2015	['Raymond C. H. Lo', 'William C. Y. Lo']	9781782169727	OpenGL Data Visualization Cookbook
+August 2015	['Steve Ivie']	9781785289101	Building Dynamics CRM 2015 Dashboards with Power BI
+August 2015	['Francesco Marchioni']	9781785280276	MongoDB for Java Developers
+August 2015	['Jake VanderPlas']	0636920034919	Python Data Science Handbook
+August 2015	['David Greenberg']	0636920039952	Building Applications on Mesos
+August 2015	['Ankur Ankan', 'Abinash Panda']	9781784394684	Mastering Probabilistic Graphical Models Using Python
+July 2015	['Robert Layton']	9781784396053	Learning Data Mining with Python
+July 2015	['Gaurav Barot', 'Chintan Mehta', 'Amij Patel']	9781783289042	Hadoop Backup and Recovery Solutions
+July 2015	['Hans-Jurgen Schonig']	9781783550609	PostgreSQL Replication, 2nd Edition
+July 2015	['Eric Pimpler']	9781785282898	Programming ArcGIS with Python Cookbook, 2nd Edition
+July 2015	['Vincent Bumgarner', 'James Miller']	9781784391607	Implementing Splunk, 2nd Edition
+July 2015	['Rishi Yadav']	9781783987061	Spark Cookbook
+July 2015	['Mahesh Lal']	9781784393441	Neo4j Graph Data Modeling
+July 2015	['John P Jeffries']	9781785280474	Oracle GoldenGate 12c Implementer's Guide
+July 2015	['Nitin Hardeniya']	9781784396909	NLTK Essentials
+July 2015	['Vineeth Mohan']	9781783984923	Elasticsearch Blueprints
+July 2015	['Carl Anderson']	0636920035848	Creating a Data-Driven Organization
+July 2015	['Malcolm Sherrington']	9781783553310	Mastering Julia
+July 2015	['Oleg Troyansky', 'Tammy Gibson', 'Charlie Leichtweis']	9781118949559	QlikView Your Business
+July 2015	['Mahmoud Parsian']	0636920033950	Data Algorithms
+July 2015	['Jason Myers', 'Rick Copeland']	0636920035800	Essential SQLAlchemy
+July 2015	['Aaron Cordova', 'Billie Rinaldi', 'Michael Wall']	0636920032304	Accumulo
+June 2015	['Mark Grover', 'Ted Malaska', 'Jonathan Seidman', 'Gwen Shapira']	0636920033196	Hadoop Application Architectures
+June 2015	['SAS Institute']	9781629597584	Using JMP Student Edition, Third Edition
+June 2015	['Ferran Garcia Pagans']	9781784395803	Predictive Analytics Using Rattle and Qlik Sense
+June 2015	['Ben  Spivey', 'Joey  Echeverria']	0636920033332	Hadoop Security
+June 2015	['Priscilla Walmsley']	0636920035589	XQuery
+June 2015	['Matjaz B. Juric', 'Sven Bernhardt', 'Hajo Normann', 'Danilo Schmiedel', 'Guido Schmutz', 'Mark Simpson', 'Torsten Winterberg']	9781849689441	Design Principles for Process-driven Architectures Using Oracle BPM and SOA Suite 12c
+June 2015	['Duncan M. McGreggor']	9781783987542	Mastering matplotlib
+June 2015	['Dharmesh Kakadia']	9781783288762	Apache Mesos Essentials
+June 2015	['Alexander Bruy', 'Daria Svidzinska']	9781782174677	QGIS By Example
+June 2015	['Edwood Ng', 'Vineeth Mohan']	9781782162285	Lucene 4 Cookbook
+June 2015	['Vinoo Das']	9781783980123	Learning Redis
+June 2015	['Pravin S. Ingawale']	9781782177388	Oracle E-Business Suite R12.x HRMS – A Functionality Guide
+June 2015	['Erik Westra']	9781782174516	Python Geospatial Analysis Essentials
+June 2015	['Wilson da Rocha Franca']	9781782175346	MongoDB Data Modeling
+June 2015	['Femi Anthony']	9781783981960	Mastering pandas
+June 2015	['Jayani Withanawasam']	9781783554997	Apache Mahout Essentials
+June 2015	["O'Reilly Media", 'Inc.']	0636920043928	Startup Essentials
+June 2015	['Karim Bahgat']	9781782175407	Python Geospatial Development Essentials
+June 2015	['Daniel Bartholomew']	9781785284120	Getting Started with MariaDB, 2nd Edition
+June 2015	['Sumit Mund']	9781784390792	Microsoft Azure Machine Learning
+June 2015	['Nikhil Buduma']	0636920039709	Fundamentals of Deep Learning
+June 2015	['Ryan Mitchell']	0636920034391	Web Scraping with Python
+June 2015	['Ian Robinson', 'Jim Webber', 'Emil Eifrem']	0636920041832	Graph Databases, 2nd Edition
+May 2015	['Ajit Kumar']	9781785289767	Sencha Charts Essentials
+May 2015	['Michael Covert', 'Victoria Loewengart']	9781785288913	Learning Cascading
+May 2015	['Kyle Smith']	9781785285295	Splunk Developer's Guide
+May 2015	['Ankur Goel']	9781783287253	Neo4j Cookbook
+May 2015	['James Church']	9781784394707	Learning Haskell Data Analysis
+May 2015	['David Smiley', 'Eric Pugh', 'Kranti Parisa', 'Matt Mitchell']	9781782161363	Apache Solr Enterprise Search Server, 3rd Edition
+May 2015	['Michael Heydt']	9781783985104	Mastering pandas for Finance
+May 2015	['Megan Squire']	9781785284014	Clean Data
+May 2015	['Mike Barlow']	0636920034193	The Last Mile of Analytics: Making the Leap from Platforms to Tools
+May 2015	['Lauren Haworth Lake', 'Julie McKnight']	9781607649908	PROC TABULATE by Example, Second Edition
+May 2015	['Susan Prosser', 'Stuart Gripman']	0636920036111	FileMaker Pro 14: The Missing Manual
+May 2015	['Keith McCormick', 'Jesus Salcedo']	9781118989012	SPSS Statistics for Dummies, 3rd Edition
+May 2015	['Mohammad Kamrul  Islam', 'Aravind Srinivasan']	0636920030546	Apache Oozie
+May 2015	["O'Reilly Media", 'Inc.']	0636920040361	Navigating the Health Data Ecosystem
+May 2015	['Patrick LeBlanc', 'Jessica  M.  Moss', 'Dejan Sarka', 'Dustin Ryan']	9781118961773	Applied Microsoft Business Intelligence
+May 2015	['Gerhard Svolba']	9781607646204	Data Quality for Analytics Using SAS
+April 2015	['Rajiv Tiwari']	9781784395162	Hadoop for Finance Essentials
+April 2015	['Alberto Boschetti', 'Luca Massaron']	9781785280429	Python Data Science Essentials
+April 2015	['Simon Riggs', 'Gianni Ciolli', 'Hannu Krosing', 'Gabriele Bartolini']	9781849519069	PostgreSQL 9 Administration Cookbook, 2nd Edition
+April 2015	['Shiva Achari']	9781784396688	Hadoop Essentials
+April 2015	['Christoph Korner']	9781784398484	Data Visualization with D3 and AngularJS
+April 2015	['Hrishikesh Vijay Karambelkar']	9781783553396	Scaling Big Data with Hadoop and Solr, 2nd Edition
+April 2015	['Raffael  Marty']	0636920040972	The Security Data Lake
+April 2015	['Joshua N. Milligan']	9781784391164	Learning Tableau
+April 2015	['Angel Marquez']	9781784395292	PostGIS Essentials
+April 2015	['Jayant Kumar']	9781783981847	Apache Solr Search Patterns
+April 2015	['John R. Talburt', 'Yinle Zhou']	9780128005378	Entity Information Life Cycle for Big Data
+April 2015	['Sandra D. Schlotzhauer']	9781607643791	Elementary Statistics Using SAS
+April 2015	['Neil Constable']	9781607645283	SAS Programming for Enterprise Guide Users, Second Edition
+April 2015	['Mithat Gonen']	9781599942988	Analyzing Receiver Operating Characteristic Curves with SAS
+April 2015	['Ron Cody']	9781612903330	Cody's Collection of Popular SAS Programming Tasks and How to Tackle Them
+April 2015	['Dong Wang', 'Tarek Abdelzaher', 'Lance Kaplan']	9780128008676	Social Sensing
+April 2015	['Gerhard Svolba']	9781599940472	Data Preparation for Analytics Using SAS
+April 2015	['Ron Cody']	9781599946597	Cody's Data Cleaning Techniques Using SAS, Second Edition
+April 2015	['Daniel Cowles']	0636920038504	Oil, Gas, and Data
+April 2015	['Michael Heydt']	9781783985128	Learning pandas
+April 2015	['Joel Grus']	0636920033400	Data Science from Scratch
+April 2015	['Lars George']	0636920033943	HBase: The Definitive Guide
+April 2015	['Timothy Boronczyk']	9780992461287	Jump Start MySQL
+April 2015	['Sandy  Ryza', 'Uri  Laserson', 'Sean Owen', 'Josh Wills']	0636920035091	Advanced Analytics with Spark
+March 2015	['Krishna Sankar', 'Holden Karau']	9781784392574	Fast Data Processing with Spark, 2nd Edition
+March 2015	['Hans-Jurgen Schonig']	9781783555314	Troubleshooting PostgreSQL
+March 2015	['David Lai', 'Xavier Hacking']	9781784391959	SAP BusinessObjects Dashboards 4.1 Cookbook
+March 2015	['Jayadevan Maymala']	9781783288601	PostgreSQL for Data Architects
+March 2015	['GISP Kurt Menke', 'GISP Dr. Richard Smith Jr.', 'Luigi Pirelli', 'GISP Dr. John Van Hoesen']	9781784398682	Mastering QGIS
+March 2015	['Russell J.T. Dyer']	0636920029175	Learning MySQL and MariaDB
+March 2015	['Shilpi Saxena']	9781784395490	Real-time Analytics with Storm and Cassandra
+March 2015	['Nishant Neeraj']	9781784392611	Mastering Apache Cassandra, 2nd Edition
+March 2015	['Hadley Wickham']	0636920034421	R Packages
+March 2015	['Tom White']	0636920033448	Hadoop: The Definitive Guide, 4th Edition
+March 2015	['Ted Dunning', 'Ellen Friedman']	0636920038450	Real-World Hadoop
+March 2015	['Dennis Drogseth', 'Rick A Sturm', 'Dan Twing']	9780128012659	CMDB Systems
+March 2015	['Mark Allen', 'Dalton Cervo']	9780128008355	Multi-Domain Master Data Management
+March 2015	['Stephen A. Thomas']	9781593276058	Data Visualization with JavaScript
+March 2015	['Kevin  Sitto', 'Marshall Presser']	0636920032830	Field Guide to Hadoop
+March 2015	['Sonal Raj']	9781783555154	Neo4j High Performance
+March 2015	['SAS Institute']	9781629594828	JMP 12 Scripting Guide
+March 2015	['SAS Institute']	9781629594309	Discovering JMP 12
+March 2015	['SAS Institute']	9781629594781	Using JMP 12
+March 2015	['SAS Institute']	9781629594743	JMP 12 Specialized Models
+March 2015	['Clement A. Stone', 'Xiaowen Zhu']	9781629596501	Bayesian Analysis of Item Response Theory Models Using SAS
+March 2015	['SAS Institute']	9781629594668	JMP 12 Quality and Process Methods
+February 2015	['Ibrar Ahmed', 'Asif Fayyaz', 'Amjad Shahzad']	9781783989027	PostgreSQL Developer's Guide
+February 2015	['Rafal Kuc', 'Marek Rogozinski']	9781783553792	Mastering Elasticsearch, 2nd Edition
+February 2015	['Stephen F. Elston']	0636920036029	Data Science in the Cloud with Microsoft Azure Machine Learning and R
+February 2015	['Usama Dar', 'Hannu Krosing', 'Jim Mlodgenski', 'Kirk Roybal']	9781783980581	PostgreSQL Server Programming, 2nd Edition
+February 2015	['Ashish Gupta']	9781783554959	Learning Apache Mahout Classification
+February 2015	['Silas Toms']	9781783988662	ArcPy and ArcGIS – Geospatial Analysis with Python
+February 2015	['Andrea Gazzarini']	9781784399641	Apache Solr Essentials
+February 2015	['Nishant Garg']	9781784393090	Learning Apache Kafka, 2nd Edition
+February 2015	['Dayong Du']	9781783558575	Apache Hive Essentials
+February 2015	['Mat Brown']	9781783989201	Learning Apache Cassandra
+February 2015	['Donabel Santos']	9781784391492	PowerShell for SQL Server Essentials
+February 2015	['Steve Hoffman']	9781784392178	Apache Flume: Distributed Log Collection for Hadoop, 2nd Edition
+February 2015	['Thilina Gunarathne']	9781783285471	Hadoop MapReduce v2 Cookbook, 2nd Edition
+February 2015	['John Zablocki']	9781784394493	Couchbase Essentials
+February 2015	['Amol Fasale', 'Nirmal Kumar']	9781784391737	YARN Essentials
+February 2015	['Sumit Gupta']	9781783555178	Neo4j Essentials
+February 2015	['Patrick Espake']	9781782173458	Learning Heroku Postgres
+February 2015	['Betsy Page Sigman']	9781784398385	Splunk Essentials
+February 2015	['Lillian Pierson']	9781118841556	Data Science For Dummies
+February 2015	['Nick Pentreath']	9781783288519	Machine Learning with Spark
+February 2015	['Michael Phillips']	9781782176404	TIBCO Spotfire – A Comprehensive Primer
+February 2015	['Garry Turkington', 'Gabriele Modena']	9781783285518	Learning Hadoop 2
+February 2015	['Judith Hurwitz', 'Marcia Kaufman', 'Adrian Bowles']	9781118896624	Cognitive Computing and Big Data Analytics
+February 2015	['Christopher Ilacqua', 'Henric Cronstrom', 'James Richardson']	9781782173359	Learning Qlik® Sense: The Official Guide
+January 2015	['Chitij Chauhan']	9781783555338	PostgreSQL Cookbook
+January 2015	['Holden Karau', 'Andy Konwinski', 'Patrick  Wendell', 'Matei Zaharia']	0636920028512	Learning Spark
+January 2015	['Rajesh Nadipalli']	9781784399429	HDInsight Essentials, 2nd Edition
+January 2015	['Eric Rochester']	9781784390297	Clojure Data Analysis Cookbook, 2nd Edition
+January 2015	['Melanie Swan']	0636920037040	Blockchain
+January 2015	['Joe Kuan']	9781783287451	Learning Highcharts 4
+January 2015	['Daniela Cristiana Docan']	9781783559503	ArcGIS for Desktop Cookbook
+January 2015	['Kurt W. Smith']	0636920033431	Cython
+January 2015	['Richard Brath', 'David Jonker']	9781118845844	Graph Analysis and Visualization
+January 2015	['Adam Fowler']	9781118905746	NoSQL For Dummies
+January 2015	['Jeff Sauro']	9781118937594	Customer Analytics For Dummies
+January 2015	["O'Reilly Media", 'Inc.']	0636920036081	Big Data Now: 2014 Edition
+January 2015	['DJ Patil', 'Hilary Mason']	0636920037293	Data Driven
+December 2014	['Rahul Malewar']	9781782176480	Learning Informatica PowerCenter 9.x
+December 2014	['Erik Westra']	9781783984664	Building Mapping Applications with QGIS
+December 2014	['Robbie Strickland']	9781783989126	Cassandra High Availability
+December 2014	['Thomas Newton', 'Oscar Villarreal']	9781783985609	Learning D3.js Mapping
+December 2014	['Sandeep Karanth']	9781783983643	Mastering Hadoop
+December 2014	['Amarpreet Singh Bassan', 'Debarchan Sarkar']	9781849688949	Mastering SQL Server 2014 Data Mining
+December 2014	['Mark Kerzner', 'Sujee Maniyam']	9781783981045	HBase Design Patterns
+December 2014	['C. Y. Kan']	9781783988884	Cassandra Data Modeling and Analysis
+December 2014	['EMC Education Services']	9781118876138	Data Science and Big Data Analytics
+December 2014	['Tim Menzies', 'Ekrem Kocaguneli', 'Burak Turhan', 'Leandro Minku', 'Fayola Peters']	9780124172951	Sharing Data and Models in Software Engineering
+December 2014	['James Miller']	9781782173830	Mastering Splunk
+December 2014	['Alistair Croll']	0636920037163	Data: Emerging Trends and Technologies
+December 2014	['Jeanne Boyarsky', 'Scott Selikoff']	9781118957400	OCA: Oracle Certified Associate Java SE 8 Programmer I Study Guide
+December 2014	['Erik Siegel', 'Adam Retter']	0636920026525	eXist
+December 2014	['Jason Williamson']	9781118903407	Getting a Big Data Job For Dummies
+December 2014	['Regina O. Obe', 'Leo S. Hsu']	0636920032144	PostgreSQL: Up and Running, 2nd Edition
+December 2014	['Yun Yang', 'Wenhao Li', 'Dong Yuan']	9780128025727	Reliability Assurance of Big Data in the Cloud
+December 2014	['Joe Celko']	9780128007617	Joe Celko's SQL for Smarties, 5th Edition
+December 2014	['Anita Graser']	9781784392031	Learning QGIS, 2nd Edition
+December 2014	['Andreas M.  Antonopoulos']	0636920032281	Mastering Bitcoin
+December 2014	['CAP Matthew Windham']	9781612909042	Introduction to Regular Expressions in SAS
+December 2014	['SAS Institute']	9781629593548	SAS Certification Prep Guide, 4th Edition
+December 2014	['Iain L. J. Brown Ph.D']	9781612906911	Developing Credit Risk Models Using SAS Enterprise Miner and SAS/STAT
+December 2014	['Derek P. Morgan']	9781629590660	The Essential Guide to SAS Dates and Times, Second Edition, 2nd Edition
+December 2014	['Curt Hinrichs', 'Chuck Boiler']	9781612907857	JMP Essentials, 2nd Edition
+December 2014	['EdD Ron Cody', 'Jeffrey Smith']	9781612909240	Test Scoring and Analysis Using SAS
+November 2014	['Amol Nayak']	9781782161943	MongoDB Cookbook
+November 2014	['Breck Baldwin', 'Krishna Dayanidhi']	9781783284672	Natural Language Processing with Java and LingPipe Cookbook
+November 2014	['Stefano Iacovella']	9781783289615	GeoServer Cookbook
+November 2014	['Vijay Kotu', 'Bala Deshpande']	9780128014608	Predictive Analytics and Data Mining
+November 2014	['W. H. Inmon', 'Dan Linstedt']	9780128020449	Data Architecture: A Primer for the Data Scientist
+November 2014	['Stephen Redmond']	9781782173298	Mastering QlikView
+November 2014	['Shashwat Shriparv']	9781783985944	Learning HBase
+November 2014	['Scott  Jarr']	0636920035312	Fast Data and the New Enterprise Data Architecture
+November 2014	['Colin Henderson']	9781783287697	Mastering GeoServer
+November 2014	['Mark Talabis', 'Robert S. McPherson', 'I Miyamoto', 'Jason Martin']	9780128002070	Information Security Analytics
+November 2014	['Alan Simon']	9780128015407	Enterprise Business Intelligence and Data Warehousing
+November 2014	['Olivier Cur\xc3\xa9', 'Guillaume Blin']	9780127999579	RDF Database Systems
+November 2014	['Goutam Chakraborty', 'Murali Pagolu', 'Satish Garla']	9781612905518	Text Mining and Analysis
+November 2014	['L. Felipe Martins']	9781783988341	IPython Notebook Essentials
+November 2014	['Mike Barlow']	0636920035374	Innovation, Security, and Compliance in a World of Big Data
+November 2014	['Ted Dunning', 'Ellen Friedman']	0636920035435	Time Series Databases: New Ways to Store and Access Data
+November 2014	['Nishant Garg']	9781783987245	HBase Essentials
+November 2014	['Jon Raasch', 'Graham Murray', 'Vadim Ogievetsky', 'Joseph W. Lowery']	9781118847060	JavaScript and jQuery for Data Analysis and Visualization
+November 2014	['John King', 'Roger Magoulas']	0636920036449	2014 Data Science Salary Survey
+November 2014	['Krish Krishnan', 'Shawn B. Rogers']	9780123971869	Social Data Analytics
+November 2014	['Piyanka Jain', 'Puneet Sharma']	9780814449219	Behind Every Good Decision
+November 2014	['Rick Sherman']	9780124114616	Business Intelligence Guidebook
+November 2014	['Trent Hauck']	9781783989485	scikit-learn Cookbook
+October 2014	['Bilal Shahid']	9781783983964	Highcharts Essentials
+October 2014	['Josh Diakun', 'Paul F. Johnson', 'Derek Mock']	9781849697842	Splunk Operational Intelligence Cookbook
+October 2014	['Amarkant Singh', 'Vijay Rayapati']	9781782173434	Learning Big Data with Amazon Elastic MapReduce
+October 2014	['Gavin Hackeling']	9781783988365	Mastering Machine Learning with scikit-learn
+October 2014	['Ivan Idris']	9781783553358	Python Data Analysis
+October 2014	['Jaynal Abedin', 'Hrishi V. Mittal']	9781783988785	R Graphs Cookbook, 2nd Edition
+October 2014	['Sudhi Sinha']	9781783000982	Making Big Data Work for Your Business
+October 2014	['Hans-Jurgen Schonig']	9781783988983	PostgreSQL Administration Essentials
+October 2014	['Alexandre Borges']	9781849688260	Oracle Solaris 11 Advanced Administration Cookbook
+October 2014	['Paula Ladenburg Land']	9781937434397	Content Audits and Inventories
+October 2014	['Craig Dickstein', 'Renu Gehring']	9781612908861	Administrative Healthcare Data
+September 2014	['Zach Gemignani', 'Chris Gemignani', 'Richard Galentino', 'Patrick Schuermann']	9781118851012	Data Fluency
+September 2014	['Matthew Kirk']	0636920032298	Thoughtful Machine Learning
+September 2014	['John Russell']	0636920033936	Getting Started with Impala
+September 2014	['Nazmus Saquib']	9781783282999	Mathematica Data Visualization
+September 2014	['Jeroen Janssens']	0636920032823	Data Science at the Command Line
+September 2014	['Vivek Acharya']	9781849689021	Oracle BPM Suite 12c Modeling Patterns
+September 2014	['Enda Ridge']	9780128002186	Guerrilla Analytics
+September 2014	['Tony Ojeda', 'Sean Murphy', 'Benjamin Bengfort', 'Abhijit Dasgupta']	9781783980246	Practical Data Science Cookbook
+September 2014	['Cyrille Rossant']	9781783284818	IPython Interactive Computing and Visualization Cookbook
+September 2014	['Taha M. Mahmoud']	9781782170907	Creating Universes with SAP BusinessObjects
+September 2014	['Pierre MAVRO']	9781783981601	MariaDB High Performance
+September 2014	['Arun Chinnachamy']	9781783286713	Redis Applied Design Patterns
+September 2014	['Jay Kreps']	0636920034339	I Heart Logs
+September 2014	['Uchit Vyas', 'Prabhakaran Kuppusamy']	9781783551897	DynamoDB Applied Design Patterns
+September 2014	['Hari Shreedharan']	0636920030348	Using Flume
+September 2014	['Martin Kleppmann']	0636920032175	Designing Data-Intensive Applications
+September 2014	['Meta S. Brown']	9781118893173	Data Mining For Dummies
+August 2014	['Alan Simon']	9780128015391	Modern Enterprise Business Intelligence and Data Management
+August 2014	['Adam Jorgensen', 'Bradley Ball', 'Steven Wort', 'Ross LoForte', 'Brian Knight']	9781118859131	Professional Microsoft SQL Server 2014 Administration
+August 2014	['Scott Gottreu']	9781783981168	Learning jqPlot
+August 2014	['Yoav Yahav']	9781782172437	SAP BusinessObjects Reporting Cookbook
+August 2014	['Ankit Jain', 'Anand Nalya']	9781783981328	Learning Storm
+August 2014	['Tanmay Deshpande']	9781783551958	Mastering DynamoDB
+August 2014	['Chad Adams']	9781783553334	Learning Python Data Visualization
+August 2014	['Rik Van Bruggen']	9781849517164	Learning Neo4j
+August 2014	['Pablo Navarro Castillo']	9781783286270	Mastering D3.js
+August 2014	['Tom Johnston']	9780124080676	Bitemporal Data
+August 2014	['Ted Dunning', 'Ellen Friedman']	0636920033172	Practical Machine Learning: Innovations in Recommendation
+August 2014	['C. J. Date', 'Hugh Darwen', 'Nikos Lorentzos']	9780128006313	Time and Relational Theory, 2nd Edition
+August 2014	['Sergey Popov']	9781782170563	Applied SOA Patterns on the Oracle Platform
+August 2014	['Robert G. Freeman', 'Charles A. Pack']	9781118644072	OCP: Oracle Database 12c Administrator Certified Professional Study Guide
+July 2014	['Paul DuBois']	0636920032274	MySQL Cookbook, 3rd Edition
+July 2014	['Hrishikesh Vijay Karambelkar']	9781783981748	Scaling Apache Solr
+July 2014	['Basit A. Masood-Al-Farooq']	9781782172550	SQL Server 2014 Development Essentials
+July 2014	['Afshin Mehrabani']	9781783986729	MongoDB High Availability
+July 2014	['Ted Dunning', 'Ellen Friedman']	0636920034650	Practical Machine Learning: A New Look at Anomaly Detection
+July 2014	['Rohit Menon']	9781783558964	Cloudera Administration Handbook
+July 2014	['Shaun M. Thomas']	9781849516969	PostgreSQL 9 High Availability Cookbook
+July 2014	['Robert Carver']	9781612908236	Practical Data Analysis with JMP, 2nd Edition
+July 2014	['Richard C. Zink']	9781612909912	Risk-Based Monitoring and Fraud Detection in Clinical Trials Using JMP and SAS
+July 2014	['Patricia Berglund', 'Steven G. Heeringa']	9781612904528	Multiple Imputation of Missing Data Using SAS
+June 2014	['John Mylopoulos', 'Michael L. Brodie']	9780934613538	Readings in Artificial Intelligence and Databases
+June 2014	['Susan Prosser', 'Stuart Gripman']	0636920033271	FileMaker Pro 13: The Missing Manual
+June 2014	['Antonios Chalkiopoulos']	9781783287017	Programming MapReduce with Scalding
+June 2014	['Hussein Nasser']	9781783988648	Learning ArcGIS Geodatabases
+June 2014	['Sergio Ramazzina']	9781783289356	Pentaho Business Analytics Cookbook
+June 2014	['Byron Ellis']	9781118837917	Real-Time Analytics
+June 2014	['Ben Jones']	0636920030942	Communicating Data with Tableau
+June 2014	['Garrett Grolemund']	0636920028574	Hands-On Programming with R
+June 2014	['MBA Justin Beegel']	9781118792384	Infographics For Dummies
+June 2014	['Michele M. Burlew']	9781612906935	SAS Macro Programming Made Easy, 3rd Edition
+May 2014	['Reza Rad']	9781849688888	Microsoft SQL Server 2014 Business Intelligence Development Beginner’s Guide
+May 2014	['Jordan Tigani', 'Siddartha Naidu']	9781118824825	Google BigQuery Analytics
+May 2014	['Rishabh Agrawal']	9781782171560	HP Vertica Essentials
+May 2014	['Onofrio Panzarino']	9781783287758	Learning Cypher
+May 2014	['Matthew Gillingham']	9781612903224	SAS Programming with Medicare Administrative Data, 2nd Edition
+April 2014	['Gethyn Ellis']	9781782172413	Getting Started with SQL Server 2014 Administration
+April 2014	['Akhil Wali']	9781783284351	Clojure for Machine Learning
+April 2014	['Michael Alexander', 'Jared Decker', 'Bernard Wehbe']	9781118821527	Microsoft Business Intelligence Tools for Excel Analysts
+April 2014	['Pradeep Pasupuleti']	9781783285556	Pig Design Patterns
+April 2014	['Magulan D']	9781783287352	Getting Started with SOQL
+April 2014	['Stephen L. Nelson', 'E. B. Nelson']	9781118898093	Excel Data Analysis For Dummies, 2nd Edition
+April 2014	['Charles Bell', 'Mats Kindahl', 'Lars Thalmann']	0636920026907	MySQL High Availability, 2nd Edition
+April 2014	['Biju Thomas']	9781118643952	OCA: Oracle Database 12c Administrator Certified Associate Study Guide
+April 2014	['Brian Knight', 'Devin Knight', 'Jessica  M.  Moss', 'Mike Davis', 'Chris  Rock']	9781118850879	Professional Microsoft SQL Server 2014 Integration Services
+March 2014	['Dean Abbott']	9781118727966	Applied Predictive Analytics
+March 2014	['KOEN PAUWELS']	9780814433959	It's Not the Size of the Data -- It's How You Use It
+March 2014	['P. Taylor Goetz', "Brian O'Neill"]	9781782168294	Storm Blueprints: Patterns for Distributed Real-time Computation
+March 2014	['Amr Gawish']	9781849689229	Oracle ADF Faces Cookbook
+March 2014	['Alexandre Devert']	9781849513265	matplotlib Plotting Cookbook
+March 2014	['Surendra Mohan']	9781782164821	Apache Solr High Performance
+March 2014	['Vincent Granville']	9781118810088	Developing Analytic Talent
+March 2014	['Dirk deRoos']	9781118607558	Hadoop For Dummies
+March 2014	['Daniel Bartholomew']	9781783284399	MariaDB Cookbook
+March 2014	['Nicholas Terwoord']	9781783559688	Highcharts Cookbook
+March 2014	['James Serra', 'Bill Anton']	9781782171720	Reporting with Microsoft SQL Server 2012
+March 2014	['Anasse Bari', 'Mohamed Chaouchi', 'Tommy Jung']	9781118728963	Predictive Analytics For Dummies
+March 2014	['Nathan Yau']	9781118906705	FlowingData.com Data Visualization Set
+March 2014	['Jack Shostak']	9781612906041	SAS Programming in the Pharmaceutical Industry, 2nd Edition
+March 2014	['Kevin T. Smith']	9781612908540	ODS Techniques
+February 2014	['Chris Webb', 'Alberto Ferrari', 'Marco Russo']	9781849689908	Expert Cube Development with SSAS Multidimensional Models
+February 2014	['Bahaaldine Azarmi']	9781782169499	Talend for Big Data
+February 2014	['Khaled Tannir']	9781783285655	Optimizing Hadoop for MapReduce
+February 2014	['Isaac Newton']	9781782170921	Minitab Cookbook
+February 2014	['Bo Borland']	9781782168355	Pentaho Analytics for MongoDB
+February 2014	['Sten E. Vesterli']	9781782176800	Oracle ADF Enterprise Application Development – Made Simple, 2nd Edition
+February 2014	['Adam Jorgensen', 'James Rowland-Jones', 'John C. Welch', 'Dan Clark', 'Christopher Price', 'Brian Mitchell']	9781118729083	Microsoft Big Data Solutions
+February 2014	['Eric Pimpler']	9781849697965	Building Web and Mobile ArcGIS Server Applications with JavaScript
+February 2014	['Christopher Surdak']	9780814433744	Data Crush
+February 2014	['John King', 'Roger Magoulas']	0636920032960	2013 Data Science Salary Survey
+February 2014	['SAS Institute']	9781612909363	JMP 11 Scripting Guide, 2nd Edition
+February 2014	['SAS Institute']	9781612909349	JMP 11 JSL Syntax Reference, 2nd Edition
+February 2014	['SAS Institute']	9781612909356	Using JMP 11, 2nd Edition
+January 2014	['David Nettleton']	9780124166028	Commercial Data Mining
+January 2014	['Sanjay K. Sharma']	9781783288809	Cassandra Design Patterns
+January 2014	['Paolo Corti', 'Thomas J. Kraft', 'Stephen Vincent Mather', 'Bborie Park']	9781849518666	PostGIS Cookbook
+January 2014	['Hussein Nasser']	9781782177364	Administering ArcGIS for Server
+January 2014	['Steven Feuerstein', 'Bill Pribyl']	0636920024859	Oracle PL/SQL Programming, 6th Edition
+January 2014	['Lutz Finger', 'Soumitra  Dutta']	0636920026488	Ask, Measure, Learn
+January 2014	['Stephen Redmond']	9781782179856	QlikView Server and Publisher
+January 2014	['Max Shron']	0636920029182	Thinking with Data
+January 2014	['Jay Jacobs', 'Bob Rudis']	9781118793725	Data-Driven Security
+January 2014	['Mico Yuk', 'Stephanie Diamond']	9781118502891	Data Visualization For Dummies
+December 2013	['Eric Benjamin Seufert']	9780124166905	Freemium Economics
+December 2013	['Piero Giacomelli']	9781849518024	Apache Mahout Cookbook
+December 2013	['Faisal Ghadially', 'Kalpit Parikh']	9781849686860	Oracle Fusion Applications Administration Essentials
+December 2013	['Alfredo Serafini']	9781782162520	Apache Solr Beginner's Guide
+December 2013	['Matt Palmer']	9781783280216	Instant Redis Persistence
+December 2013	['Baya Dewald', 'Steve Hughes', 'Paul Turley']	9781849689809	SQL Server Analysis Services 2012 Cube Development Cookbook
+December 2013	['Alberto Paro']	9781782166627	ElasticSearch Cookbook
+December 2013	['Chandrasekhar Mankala', 'Ganesh Mahadevan V.']	9781782177623	SAP HANA Cookbook
+December 2013	['Nelson Enriquez', 'Samundar Singh Rathore']	9781782170044	Discovering Business Intelligence Using MicroStrategy 9
+December 2013	['Avkash Chauhan']	9781783281275	Learning Cloudera Impala
+December 2013	['Bhanu Birani']	9781782177128	Getting Started with Flurry Analytics
+December 2013	['Lisa Fine']	9781612907840	PROC REPORT by Example
+December 2013	['Kattamuri S. Sarma PhD']	9781607647676	Predictive Modeling with SAS Enterprise Miner, 2nd Edition
+December 2013	['Khalid Mehmood Awan']	9781782171782	IBM Cognos BI v10.2 Administration Essentials
+December 2013	['Pradyumna Dash']	9781782177821	Getting Started with Oracle VM VirtualBox
+December 2013	['Khaled El Emam', 'Luk Arbuckle']	0636920029229	Anonymizing Health Data
+December 2013	['Kevin Schmidt', 'Christopher Phillips']	0636920029304	Programming Elastic MapReduce
+November 2013	['William McKnight']	9780124080560	Information Management
+November 2013	['Manoj R Patil', 'Feris Thia']	9781783282159	Pentaho for Big Data Analytics
+November 2013	['Vijay Parthasarathy']	9781782168171	Learning Cassandra for Administrators
+November 2013	['Igor Milovanovic']	9781782163367	Python Data Visualization Cookbook
+November 2013	['Jayant Kumar']	9781782164920	Apache Solr PHP Integration
+November 2013	['Ved Antani']	9781782177708	Managing IaaS and DBaaS Clouds with Oracle Enterprise Manager Cloud Control 12c
+November 2013	['Robert Bosco J']	9781849698689	PowerPivot for Advanced Reporting and Dashboards
+November 2013	['Andrew Chisholm']	9781782169338	Exploring Data with RapidMiner
+November 2013	['Danil Zburivsky']	9781783281718	Hadoop Cluster Deployment
+November 2013	['Alex Meadows', 'Adrian Sergio Pulvirenti', 'Maria Carina Roldan']	9781783280674	Pentaho Data Integration Cookbook, 2nd Edition
+November 2013	['Sujoy Acharya']	9781783285259	Securing Hadoop
+November 2013	['Andy Dent']	9781783281015	Getting Started with LevelDB
+October 2013	['John W. Foreman']	9781118661468	Data Smart
+October 2013	['Kirk Paul Lafler']	9781612900278	PROC SQL: Beyond the Basics Using SAS, 2nd Edition
+October 2013	['Brian Peiris']	9781783280650	Instant JQuery Flot Visual Data Analysis
+October 2013	['Davide Moraschi']	9781782179757	Business Intelligence with MicroStrategy Cookbook
+October 2013	['Swizec Teller']	9781782160007	Data Visualization with d3.js
+October 2013	['Rick Barton']	9781782167266	Talend Open Studio Cookbook
+October 2013	['Marlon Ribunal', 'Mickey Stuewe']	9781849685085	SQL Server 2012 Reporting Services Blueprints
+October 2013	['Brett Lantz']	9781782162148	Machine Learning with R
+October 2013	['Nishant Neeraj']	9781782162681	Mastering Apache Cassandra
+October 2013	['Mahmoud Elkoush']	9781782178026	Reporting with Visual Studio and Crystal Reports
+October 2013	['Marcel van der Plas', 'Michel van Zoest']	9781782179672	Oracle APEX Cookbook, 2nd Edition
+October 2013	['Manuel Xavier']	9781782179832	TIBCO Spotfire for Developers
+October 2013	['Nick Qi Zhu']	9781782162162	Data Visualization with D3.js Cookbook
+October 2013	['Christopher Price', 'Adam Jorgensen', 'Devin Knight']	9781118647196	Building Performance Dashboards and Balanced Scorecards with SQL Server Reporting Services
+October 2013	['Chris Ruel', 'Wessler']	9781118745311	Oracle 12c For Dummies
+October 2013	['Maria Carina Roldan']	9781782165040	Pentaho Data Integration Beginner's Guide, 2nd Edition
+October 2013	['Keith McCormick', 'Dean Abbott', 'Meta S. Brown', 'Tom Khabaza', 'Scott R. Mutchler']	9781849685467	IBM SPSS Modeler Cookbook
+October 2013	['Sunila Gollapudi']	9781782177043	Getting Started with Greenplum for Big Data Analytics
+October 2013	['Holden Karau']	9781782167068	Fast Data Processing with Spark
+October 2013	['Sanjay Matange']	9781612907123	Getting Started with the Graph Template Language in SAS
+October 2013	['Daniel Bartholomew']	9781782168096	Getting Started with MariaDB
+October 2013	['Hector Cuesta']	9781783280995	Practical Data Analysis
+October 2013	['Randy Krum']	9781118582305	Cool Infographics
+October 2013	['Dan Murray']	9781118612040	Tableau Your Data!
+October 2013	['Nishant Garg']	9781782167938	Apache Kafka
+October 2013	['Guomundur Jon Halldorsson']	9781783285990	Apache Accumulo for Developers
+October 2013	['Gabor Bakos']	9781849699211	KNIME Essentials
+October 2013	['Russell Jurney']	0636920025054	Agile Data Science
+October 2013	['Surendra Mohan']	9781783283255	Administrating Solr
+October 2013	['Heath Rushing', 'Andrew Karl', 'James Wisnowski']	9781612907253	Design and Analysis of Experiments by Douglas Montgomery: A Supplement for Using JMP
+October 2013	["Cathy O'Neil", 'Rachel Schutt']	0636920028529	Doing Data Science
+October 2013	['Joe Celko']	9780124071926	Joe Celko’s Complete Guide to NoSQL
+October 2013	['Ian Cox', 'Marie Gaudard']	9781612908229	Discovering Partial Least Squares with JMP
+September 2013	['Ankur Gupta']	9781849686143	Oracle Goldengate 11g Complete Cookbook
+September 2013	['Karl Pover']	9781782179894	Learning QlikView Data Visualization
+September 2013	['Simon Greener', 'Siva Ravada']	9781849686365	Applying and Extending Oracle Spatial
+September 2013	['Simon Timms']	9781782166542	Social Data Visualization with HTML5 and JavaScript
+September 2013	['Amresh Singh']	9781783282715	Instant Cassandra Query Language
+September 2013	['Ken Cherven']	9781783280131	Network Graph Analysis and Visualization with Gephi
+September 2013	['Francisco Munoz Alvarez', 'Aman Sharma']	9781782171201	Oracle Database 12c Backup and Recovery Survival Guide
+September 2013	['Hemant Kumar Mehta']	9781782178101	Getting Started with Oracle Public Cloud
+September 2013	['Fabio Mazanatti Nunes', 'William Markito Oliveira']	9781849686969	Getting Started with Oracle WebLogic Server 12c: Developer's Guide
+September 2013	['Bill Schmarzo']	9781118739570	Big Data
+September 2013	['Luis Augusto Weir', 'Andrew Bell']	9781849689083	Oracle SOA Governance 11g Implementation
+September 2013	['Anita Graser']	9781782167488	Learning QGIS 2.0
+September 2013	['David Plotkin']	9780124103894	Data Stewardship
+September 2013	['Simon Lidberg']	9781849689502	Getting Started with SQL Server 2012 Cube Development
+September 2013	['Allen  B. Downey']	0636920030720	Think Bayes
+September 2013	['Ruben Verborgh', 'Max De Wilde']	9781783289080	Using OpenRefine
+September 2013	['SAS Institute']	9781612906607	JMP 11 Multivariate Methods
+September 2013	['SAS Institute']	9781612906690	JMP 11 Fitting Linear Models 
+September 2013	['SAS Institute']	9781612906720	JMP 11 Reliability and Survival Methods 
+September 2013	['SAS Institute']	9781612906614	JMP 11 Consumer Research
+September 2013	['SAS Institute']	9781612906669	JMP 11 Profilers 
+September 2013	['Rick Greenwald', 'Robert Stackowiak', 'Jonathan Stern']	0636920027737	Oracle Essentials, 5th Edition
+September 2013	['SAS Institute']	9781612906737	JMP 11 Quality and Process Methods 
+September 2013	['SAS Institute']	9781612906706	JMP 11 Basic Analysis
+September 2013	['SAS Institute']	9781612906683	JMP 11 Specialized Models
+September 2013	['SAS Institute']	9781612906713	JMP 11 Essential Graphing
+September 2013	['Khaled Tannir']	9781783283798	RavenDB 2.x Beginner's Guide
+August 2013	['Robert Virgile']	9781612907109	SAS Macro Language Magic
+August 2013	['Boris Lublinsky', 'Kevin T. Smith', 'Alexey Yakubovich']	9781118611937	Professional Hadoop Solutions
+August 2013	['Alexander Borek', 'Ajith Kumar Parlikad', 'Jela Webb', 'Philip Woodall']	9780124055476	Total Information Risk Management
+August 2013	['Michael A. Raithel']	9781612901046	How to Become a Top SAS Programmer
+August 2013	['Quinton Anderson']	9781782164425	Storm Real-Time Processing Cookbook
+August 2013	['Anurag Acharya']	9781849688727	Instant Microsoft SQL Server Analysis Service 2012 Dimensions and Cube
+August 2013	['Ankit Jain']	9781782165767	Instant Apache Sqoop
+August 2013	['Sherry Li', 'Tomislav Piasevoli']	9781849689601	MDX with SSAS 2012 Cookbook, 2nd Edition
+August 2013	['Vishal Pathak']	9781849684989	Oracle APEX 4.2 Reporting
+August 2013	['Hrishikesh Vijay Karambelkar']	9781783281374	Scaling Big Data with Hadoop and Solr
+August 2013	['Ahmed Lashin', 'Abhishek Sanghani']	9781849688208	IBM Cognos 10 Report Studio Cookbook, 2nd Edition
+August 2013	['Ashutosh Nandeshwar']	9781849689786	Tableau Data Visualization Cookbook
+August 2013	['Debarchan Sarkar']	9781782177982	Microsoft SQL Server 2012 with Hadoop
+August 2013	['Zoltan Boszormenyi', 'Hans-Jurgen Schonig']	9781849516723	PostgreSQL Replication
+August 2013	['Nicholas Emond']	9781782178064	Instant MDX Queries for SQL Server 2012
+August 2013	['Brian Ritchie']	9781782166986	RavenDB High Performance
+August 2013	['Claudio Tesoriero']	9781782169956	Getting Started with OrientDB
+August 2013	['Sten E. Vesterli']	9781782170686	Developing Web Applications with Oracle ADF Essentials
+August 2013	['David Loshin']	9780124173194	Big Data Analytics
+August 2013	['Renu Gehring']	9781612903231	SAS Business Intelligence for the Health Care Industry
+August 2013	['Mariano Garcia Mattio', 'Dario R. Bernabeu']	9781782162247	Pentaho 5.0 Reporting By Example Beginner's Guide
+August 2013	['Allen G. Taylor']	9781118607961	SQL For Dummies, 8th Edition
+July 2013	['Amol Nayak']	9781782169703	Instant MongoDB
+July 2013	['Satya Shyam K Jayanty']	9781849688703	Instant SQL Server Analysis Services 2012 Cube Security
+July 2013	['Cyril Grandjean']	9781849697545	Instant Highcharts
+July 2013	['B. Diane Blackwood']	9781849689649	Instant QlikView 11 Application Development
+July 2013	['Shumin Guo']	9781782165163	Hadoop Operations and Cluster Management Cookbook
+July 2013	['Tony Bruzzese']	9781782170242	Instant Oracle GoldenGate
+July 2013	['Edward C. Malthouse']	9781612906966	Segmentation and Lifetime Value Models Using SAS
+July 2013	['Steve Hoffman']	9781782167914	Apache Flume: Distributed Log Collection for Hadoop
+July 2013	['Matthew Brasier', 'Nicholas Wright']	9781849688840	Oracle SOA Suite 11g Performance Tuning Cookbook
+July 2013	['Mark Walker']	9781849689403	Software Development on the SAP HANA Platform
+July 2013	['Krishnaprem Bhatia', 'Scott Philip Haaland', 'Alan Perlovsky']	9781849688864	Getting Started with Oracle SOA B2B Integration: A Hands-On Tutorial
+July 2013	['Paco Nathan']	0636920028536	Enterprise Data Workflows with Cascading
+July 2013	['Barry de Ville', 'Padraic Neville']	9781612903156	Decision Trees for Analytics Using SAS Enterprise Miner
+July 2013	['Bob DuCharme']	0636920030829	Learning SPARQL, 2nd Edition
+July 2013	['Kathleen Ting', 'Jarek Jarcec Cecho']	0636920029519	Apache Sqoop Cookbook
+July 2013	['Kupe Kupersmith', 'Paul Mulvey', 'Kate McGoey']	9781118510582	Business Analysis For Dummies
+June 2013	['Hannu Krosing', 'Jim Mlodgenski', 'Kirk Roybal']	9781849516983	PostgreSQL Server Programming
+June 2013	['Emre Baransel', 'Nassyam Basha']	9781849687904	Oracle Data Guard 11gR2 Administration Beginner's Guide
+June 2013	['Jayaram Krishnaswamy']	9781849689922	Learning SQL Server Reporting Services 2012
+June 2013	['Mike Barlow']	0636920029441	Real-Time Big Data Analytics: Emerging Architecture
+June 2013	['Stephen Redmond']	9781782179733	QlikView for Developers Cookbook
+June 2013	['Bostjan Kaluza']	9781782163862	Instant Weka How-to
+June 2013	['Ravi Saraswathi', 'Jaswant Singh']	9781849688987	Oracle SOA BPEL Process Manager 11gR1-A Hands-on Tutorial
+June 2013	['Dalton Iwazaki']	9781849686846	Oracle WebLogic Server 12c Advanced Administration Cookbook
+June 2013	['Cuneyt Yilmaz']	9781849686006	Oracle Business Intelligence 11g R1 Cookbook
+June 2013	['Stefan Bauer']	9781782178088	Getting Started With Amazon Redshift
+June 2013	['Harlan Harris', 'Sean Murphy', 'Marck Vaisman']	0636920029014	Analyzing the Analyzers
+June 2013	['Alexandre Rafalovitch']	9781782164845	Instant Apache Solr for Indexing Data How-to
+June 2013	['Biru Chattopadhayay']	9781849686884	Getting Started with Oracle Tuxedo
+June 2013	['Darren Lee']	9781782169475	Instant Apache Hive Essentials How-to
+May 2013	['Trent Hauck']	9781782165583	Instant Data Intensive Apps with Pandas How-to
+May 2013	['Arun Chinnachamy']	9781782164807	Instant Redis Optimization How-to
+May 2013	['Terry Curran']	9781849685764	IBM Cognos 10 Framework Manager
+May 2013	['Srinath Perera']	9781782167709	Instant MapReduce Patterns - Hadoop Essentials How-to
+May 2013	['Jules J Berman']	9780124045767	Principles of Big Data
+May 2013	['Christophe Dupupet', 'Peter C. Boyd-Bowman', 'Denis Gray', 'Julien Testut']	9781849681742	Oracle Data Integrator 11g Cookbook 
+May 2013	['Kristina Chodorow']	0636920028031	MongoDB: The Definitive Guide, 2nd Edition
+May 2013	['Dustin Adkison']	9781849683562	IBM Cognos Business Intelligence
+May 2013	['Nauman Sheikh']	9780124016965	Implementing Analytics
+May 2013	['Jeffrey Needham']	0636920029526	Disruptive Possibilities: How Big Data Changes Everything
+May 2013	['Krish Krishnan']	9780124058910	Data Warehousing in the Age of Big Data
+April 2013	['Cyrille Rossant']	9781782169932	Learning IPython for Interactive Computing and Data Visualization
+April 2013	['Vinod Krishnan']	9781849689007	Oracle ADF 11gR2 Development Beginner's Guide
+April 2013	['B. M. Madhusudhan Rao']	9781782170143	Instant Oracle BPM for Financial Services How-to
+April 2013	['Daniel K. Lyons']	9781782167563	Instant PostgreSQL Starter
+April 2013	['Rick Wicklin']	9781612903323	Simulating Data with SAS
+April 2013	['Peter Aiken', 'Michael M. Gorman']	9780124114630	The Case for the Chief Data Officer
+April 2013	['Ann W. Lehman', "Norm O'Rourke Ph.D.", 'R.Psych.', 'Larry Hatcher Ph.D.', 'Edward J. Stepanski Ph.D.']	9781612906034	JMP for Basic Univariate and Multivariate Statistics, 2nd Edition
+April 2013	['Kevin T. Smith']	9781607648086	PROC TEMPLATE Made Easy
+April 2013	['Traci L. Ruthkoski']	9781849694360	Google Visualization API Essentials
+April 2013	['Recx']	9781118686096	Hands-On Oracle Application Express Security
+April 2013	['Mark Stacey', 'Joe Salvatore', 'Adam Jorgensen']	9781118388037	Visual Intelligence
+April 2013	['Anders Milhoj']	9781612901701	Practical Time Series Analysis Using SAS
+March 2013	['Andy Penver']	9781849687126	Oracle E-Business Suite R12 Integration and OA Framework Development and Extension Cookbook
+March 2013	['Gaurav Vaish']	9781849694988	Getting Started with NoSQL
+March 2013	['Shaun M. Thomas']	9781782169109	Instant PostgreSQL Backup and Restore How-to
+March 2013	['Judith Hurwitz', 'Alan Nugent', 'Fern Halper', 'Marcia Kaufman']	9781118504222	Big Data For Dummies
+March 2013	['Vivek Mishra']	9781782163909	Instant Apache Cassandra for Developers Starter
+March 2013	['Eric Rochester']	9781782162643	Clojure Data Analysis Cookbook
+March 2013	['Alexandre Alves', 'Robin J. Smith', 'Lloyd Williams']	9781849684545	Getting Started with Oracle Event Processing 11g
+March 2013	["Norm O'Rourke Ph.D.", 'R.Psych.', 'Larry Hatcher Ph.D.']	9781599942308	A Step-by-Step Approach to Using SAS for Factor Analysis and Structural Equation Modeling, 2nd Edition
+March 2013	['Marcelle Kratochvil']	9781849686921	Managing Multimedia and Unstructured Data in the Oracle Database
+March 2013	['Michael D. Kennedy']	9781118159804	Introducing Geographic Information Systems with ArcGIS, 3rd Edition
+March 2013	['Pouria Amirian']	9781118442548	Beginning ArcGIS for Desktop Development using .NET
+March 2013	['Don Henderson']	9781629595368	SAS Server Pages
+March 2013	['Dhananjay Papde', 'Vipul Patel', 'Tushar Nath']	9781849687409	Oracle Enterprise Manager 12c Administration Cookbook
+March 2013	['Scott Murray']	0636920026938	Interactive Data Visualization for the Web
+March 2013	['Joseph Schmuller Ph.D.']	9781118464311	Statistical Analysis with Excel For Dummies, 3rd Edition
+March 2013	['Alistair Croll', 'Benjamin Yoskovitz']	0636920026334	Lean Analytics
+March 2013	['Rick Copeland']	0636920027041	MongoDB Applied Design Patterns
+March 2013	['Nathan Yau']	9781118462195	Data Points
+February 2013	['April Reeve']	9780123971678	Managing Data in Motion
+February 2013	['Steve Ries']	9781849687300	OCA Oracle Database 11g: Database Administration I: A Real-World Certification Guide
+February 2013	['Eric Pimpler']	9781849694445	Programming ArcGIS 10.1 with Python Cookbook
+February 2013	['Garry Turkington']	9781849517300	Hadoop Beginner's Guide
+February 2013	['Jonathan R. Owens', 'Brian Femiano', 'Jon Lentz']	9781849519120	Hadoop Real-World Solutions Cookbook
+February 2013	['Eric Siegel']	9781118356852	Predictive Analytics
+February 2013	['MC Brown']	0636920025740	Developing with Couchbase Server
+February 2013	['Matt Reid']	9781849687485	Instant InnoDB
+January 2013	['Rafal Kuc']	9781782161325	Apache Solr 4 Cookbook
+January 2013	['Geoffrey Hudik']	9781849688581	Instant Oracle Database and PowerShell How-to
+January 2013	['Philip P. Brown']	9781849688307	Oracle Solaris 11: First Look
+January 2013	['Srinath Perera', 'Thilina Gunarathne']	9781849517287	Hadoop MapReduce Cookbook
+January 2013	['Vincent Bumgarner']	9781849693288	Implementing Splunk: Big Data Reporting and Development for Operational Intelligence
+December 2012	['Laura Sebastian-Coleman']	9780123970336	Measuring Data Quality for Ongoing Improvement
+December 2012	['Michael T. Raggo', 'Chet Hosmer']	9781597497435	Data Hiding
+December 2012	['Andy Kirk']	9781849693462	Data Visualization: a successful design process
+December 2012	['Antony Reynolds', 'Matt Wright']	9781849683883	Oracle SOA Suite 11g Developer's Cookbook
+December 2012	['Joe Kuan']	9781849519083	Learning Highcharts
+December 2012	['Chris Holland', 'Jack Shostak']	9781612901657	Implementing CDISC Using SAS
+December 2012	['C.J. Date']	0636920028437	View Updating and Relational Theory
+December 2012	['Chris Hemedinger']	9781607646785	Custom Tasks for SAS Enterprise Guide Using Microsoft .NET
+December 2012	['Padmanabha Rao', 'Venkatesan Sundaram']	9781849685009	Oracle CRM On Demand Administration Essentials
+December 2012	['Porus Homi Havewala']	9781849684781	Oracle Enterprise Manager Cloud Control 12c: Managing Data Center Chaos
+December 2012	['Stephen D. Kelly']	9781849686907	Oracle Primavera Contract Management, Business Intelligence Publisher Edition v14
+November 2012	['Hunter Whitney']	9780123877932	Data Insights
+November 2012	['Lyndsay Wise']	9780124158115	Using Open Source Platforms for Business Intelligence
+November 2012	['Barry Harmsen', 'Miguel Garcia']	9781849686068	QlikView 11 for Developers
+November 2012	['Nivedita Majumdar', 'Swapnonil Banerjee']	9781849693165	MATLAB Graphics and Data Visualization Cookbook
+November 2012	['Tom Schenk']	9781849694407	Circos Data Visualization How-to
+November 2012	['Mark Walker']	9781849688680	SAP HANA Starter
+November 2012	['Brian Knight', 'Devin Knight', 'Mike Davis', 'Wayne Snyder']	9781118479582	Knight's Microsoft SQL Server 2012 Integration Services 24-Hour Trainer
+November 2012	['DJ Patil']	0636920027355	Data Jujitsu: The Art of Turning Data into Product
+November 2012	['Sanjeev Datta']	9781849688468	IBM Cognos Insight
+November 2012	['John Ladley']	9780124158290	Data Governance
+November 2012	['Q. Ethan McCallum']	0636920024422	Bad Data Handbook
+November 2012	['Jonathan Bowen']	9781849514729	Getting Started with Talend Open Studio for Data Integration
+November 2012	['Alex Nuijten', 'Iloon Ellen Wollf', 'Learco Brizzi']	9781849684002	Oracle APEX Best Practices
+October 2012	['Donabel Santos']	9781849686464	SQL Server 2012 with PowerShell V3 Cookbook
+October 2012	['Adrian Neagu']	9781849685269	Oracle 11g Anti-hacker's Cookbook
+October 2012	["O'Reilly Media", 'Inc.']	0636920028307	Big Data Now: 2012 Edition, 2nd Edition
+October 2012	['Jobinesh Purushothaman']	9781849684828	Oracle ADF Real World Developer's Guide
+October 2012	['Rachel Clements', 'Jon Reade']	9781849687348	What's new in SQL Server 2012
+October 2012	['Christian  Bolton', 'Justin  Langford', 'Glenn Berry', 'Gavin Payne', 'Amit Banerjee', 'Rob Farley']	9781118177655	Professional SQL Server 2012 Internals and Troubleshooting
+October 2012	['Lora D. Delwiche', 'Susan J. Slaughter']	9781612903439	The Little SAS Book: A Primer, Fifth Edition, 5th Edition
+October 2012	['James Pustejovsky', 'Amber Stubbs']	0636920020578	Natural Language Annotation for Machine Learning
+October 2012	['Stephan A. Miller']	9781849518482	Piwik Web Analytics Essentials
+October 2012	['Sivakumar  Harinath', 'Ronald Pihlgren', 'Denny   Guang-Yeu Lee', 'John Sirmon', 'Robert M. Bruckner']	9781118101100	Professional Microsoft SQL Server 2012 Analysis Services with MDX and DAX
+October 2012	['Mark Nelson', 'Tanya Williams']	9781849687560	Oracle BPM Suite 11g: Advanced BPMN Topics
+September 2012	['Eric Sammer']	0636920025085	Hadoop Operations
+September 2012	['Rudi Bruchez']	9781849685887	Microsoft SQL Server 2012 Security Cookbook
+September 2012	['Jason Lankow', 'Josh Ritchie', 'Ross Crooks']	9781118314043	Infographics
+September 2012	['Edward Capriolo', 'Dean Wampler', 'Jason Rutherglen']	0636920023555	Programming Hive
+September 2012	['Michele M. Burlew']	9781607648017	SAS Hash Object Programming Made Easy
+September 2012	['Gokhan Ozar']	9781849687461	MySQL Management and Administration with Navicat
+September 2012	['Branden R. Williams', 'Anton Chuvakin']	9781597499484	PCI Compliance, 3rd Edition
+August 2012	['Ahmed Aboulnaga', 'Arun Pareek']	9781849686082	Oracle SOA Suite 11g Administrator's Handbook
+August 2012	['Nigel King', 'Adil R Khan']	9781849681704	Governance, Risk, and Compliance Handbook for Oracle Applications
+August 2012	['Daniel Williams', 'Elaine Britt Krazer']	9781849684682	Oracle Primavera P6 Version 8: Project and Portfolio Management
+August 2012	['Yifeng Jiang']	9781849517140	HBase Administration Cookbook
+August 2012	['Adam Jorgensen', 'Jorge Segarra', 'Patrick LeBlanc', 'Jose Chinchilla', 'Aaron Nelson']	9781118106877	Microsoft SQL Server 2012 Bible
+July 2012	['Tim Rey', 'Arthur Kordon', 'Chip Wells']	9781607646624	Applied Data Mining for Forecasting Using SAS
+July 2012	['Maura E. Stokes', 'Charles S. Davis', 'Gary G. Koch']	9781607646648	Categorical Data Analysis Using SAS, Third Edition, 3rd Edition
+July 2012	['Ritesh Shah', 'Bihag Thaker']	9781849685740	Microsoft SQL Server 2012 Performance Tuning Cookbook
+July 2012	['Rick van der Lans']	9780123944252	Data Virtualization for Business Intelligence Systems
+July 2012	['Ankit Garg']	9781849685825	IBM Cognos Business Intelligence 10.1 Dashboarding cookbook
+July 2012	['Susan Prosser', 'Stuart Gripman']	0636920022817	FileMaker Pro 12: The Missing Manual
+July 2012	['Christian Screen', 'Haroun Khan', 'Adrian Ward']	9781849685665	Oracle Business Intelligence Enterprise Edition 11g: A Hands-On Tutorial
+July 2012	['John Heaton']	9781849685481	Business Intelligence Cookbook: A Project Lifecycle Approach Using Oracle Technology
+July 2012	['Denny Cherry']	9781597499477	Securing SQL Server, 2nd Edition
+July 2012	['Jonathan Gray', 'Lucy Chambers', 'Liliana Bounegru']	0636920025603	The Data Journalism Handbook
+July 2012	['Asif Momen']	9781849686747	Oracle Database XE 11gR2 Jump Start Guide
+June 2012	['Mike Dewar']	0636920025429	Getting Started with D3
+June 2012	['Michel Schildmeijer']	9781849687188	Oracle WebLogic Server 12c: First Look
+June 2012	['AnHai Doan', 'Alon Halevy', 'Zachary Ives']	9780124160446	Principles of Data Integration
+June 2012	['MC Brown']	0636920025733	Getting Started with Couchbase Server
+May 2012	['David Hecksel', 'Bernard Wheeler', 'Peter C. Boyd-Bowman', 'Julien Testut', 'Denis Gray', 'Christophe Dupupet']	9781849680684	Getting Started with Oracle Data Integrator 11g: A Hands-On Tutorial
+May 2012	['Reza Rad', 'Pedro Perfeito']	9781849685245	Microsoft SQL Server 2012 Integration Services: An Expert Cookbook
+May 2012	['Colin Ware']	9780123814647	Information Visualization, 3rd Edition
+May 2012	['Paul Turley', 'Robert M. Bruckner', 'Thiago Silva', 'Ken Withee', 'Grant Paisley']	9781118101117	Professional Microsoft SQL Server 2012 Reporting Services
+May 2012	['Saurabh K. Gupta']	9781849687225	Oracle Advanced PL/SQL Developer Professional Guide
+May 2012	['Eric Redmond', 'Jim R. Wilson']	9781934356920	Seven Databases in Seven Weeks
+May 2012	['Andy Penver']	9781849684842	Oracle E-Business Suite R12 Core Development and Extension Cookbook
+April 2012	['EMC Education Services']	9781118094839	Information Storage and Management, 2nd Edition
+April 2012	['Ron Klimberg', 'B. D. McCullough']	9781612904252	Fundamentals of Predictive Analytics with JMP
+April 2012	['Mohan Iyer']	9781849680622	Oracle E-Business Suite Financials R12: A Functionality Guide
+April 2012	['Vivek Acharya']	9781849684224	Oracle BPM Suite 11g Developer's cookbook
+April 2012	['Sanket Nadhani', 'Pallav Nadhani', 'Shamasis Bhattacharya']	9781849691765	FusionCharts
+April 2012	['Christian Mehrwald', 'Sabine Morlock']	9781933952406	Data Warehousing with SAP BW7 BI in SAP Netweaver 2004s
+April 2012	['C.J. Date']	0636920025276	Database Design and Relational Theory
+April 2012	['Paul Atkinson', 'Robert Vieira']	9781118102282	Beginning Microsoft SQL Server 2012 Programming
+April 2012	['Pete Wang']	9781849685443	Oracle BAM 11gR1 Handbook
+April 2012	['Marc Delisle']	9781849517546	phpMyAdmin Starter
+March 2012	['Paul D. Allison']	9781599946412	Logistic Regression Using SAS, 2nd Edition
+March 2012	['John Sall', 'Ann W. Lehman', 'Mia L. Stephens', 'Lee Creighton']	9781612902043	JMP Start Statistics, 5th Edition
+March 2012	['Adam Jorgensen', 'Steven Wort', 'Ross LoForte', 'Brian Knight']	9781118106884	Professional Microsoft SQL Server 2012 Administration
+March 2012	['Kashif Rasheed']	9781849681964	Oracle JD Edwards EnterpriseOne 9.0: Supply Chain Management Cookbook
+March 2012	['Jeremy  Howard', 'Margit Zwemer', 'Mike Loukides']	0636920026082	Designing Great Data Products
+March 2012	['Brian Knight', 'Erik Veerman', 'Jessica  M.  Moss', 'Mike Davis', 'Chris  Rock']	9781118101124	Professional Microsoft SQL Server 2012 Integration Services
+March 2012	['Mohankumar Saraswatipura', 'Sanjay Kumar']	9781849683968	IBM DB2 9.7 Advanced Application Developer Cookbook
+March 2012	['Edd Dumbill']	0636920025559	Planning for Big Data
+March 2012	['Baron Schwartz', 'Peter Zaitsev', 'Vadim Tkachenko']	0636920022343	High Performance MySQL, 3rd Edition
+March 2012	['Art Carpenter']	9781607649915	Carpenter's Guide to Innovative SAS Techniques
+March 2012	['Brian  Clifton']	9781118168448	Advanced Web Metrics with Google Analytics, 3rd Edition
+February 2012	['Adrian Neagu', 'Robert Pelletier']	9781849683326	IBM DB2 9.7 Advanced Administration Cookbook
+February 2012	['Hariharan V Ganesarethinam']	9781849684804	Oracle Application Integration Architecture (AIA) Foundation Pack 11gR1: Essentials
+February 2012	['Alex Howard']	0636920025580	Data for the Public Good
+February 2012	['Robert Allison']	9781607649892	SAS/GRAPH: Beyond the Basics
+February 2012	['Drew Conway', 'John Myles White']	0636920018483	Machine Learning for Hackers
+February 2012	['Sveta Smirnova']	0636920021964	MySQL Troubleshooting 
+February 2012	['Marc Delisle']	9781849517782	Mastering phpMyAdmin 3.4 for Effective MySQL Management
+January 2012	['MC Brown']	0636920020837	Getting Started with CouchDB
+January 2012	['Joe Celko']	9780123877338	Joe Celko's Trees and Hierarchies in SQL for Smarties, 2nd Edition
+January 2012	['Tricia Aanderud', 'Angela Hall']	9781607649885	Building Business Intelligence Using SAS
+January 2012	['Nick Haralabidis']	9781849684767	Oracle JDeveloper 11gR2 Cookbook
+January 2012	['Guido Schmutz', 'Edwin Biemond', 'Jan van Zoggel', 'Mischa Kolliker', 'Eric Elzinga']	9781849684446	Oracle Service Bus 11g Development Cookbook
+January 2012	['Jose R. Ruiz']	9781849683265	Oracle Essbase 11 Development Cookbook
+January 2012	['Steve Francia']	0636920022381	MongoDB and PHP
+January 2012	['Ciro Fiorillo']	9781849682602	Oracle Database 11g R2 Performance Tuning Cookbook
+December 2011	['Theresa L. Utlaut', 'Georgia Z. Morgan', 'Kevin C. Anderson']	9781607648802	JSL Companion
+December 2011	['Edward J. Cody', 'Emily M. Vose']	9781849683142	Oracle Hyperion Interactive Reporting 11 Expert Guide
+December 2011	['Steve Ries']	9781849683647	OCA Oracle Database 11g: SQL Fundamentals I: A Real World Certification Guide (1ZO-051)
+November 2011	['Brian Knight', 'Devin Knight', 'Adam Jorgensen', 'Patrick LeBlanc', 'Mike Davis']	9780470889633	Knight's Microsoft Business Intelligence 24-Hour Trainer
+November 2011	['Rubayeet Islam']	9781849513623	PHP and MongoDB Web Development Beginner's Guide
+November 2011	['Chris Olsen']	9781607646686	Teaching Elementary Statistics with JMP
+November 2011	['Randy Collica']	9781607648109	Customer Segmentation and Clustering Using SAS Enterprise Miner, 2nd Edition
+November 2011	['David Smiley', 'Eric Pugh']	9781849516068	Apache Solr 3 Enterprise Search Server
+November 2011	['Daniela Bozdoc']	9781849683180	Oracle BI Publisher 11g: A Practical Guide to Enterprise Reporting
+October 2011	['Brent Chaters']	0636920018094	Mastering Search Analytics
+September 2011	['Maksim Tsvetovat', 'Alexander Kouznetsov']	0636920020424	Social Network Analysis for Startups
+September 2011	['Michel Schildmeijer']	9781849683029	Oracle Weblogic Server 11gR1 PS2: Administration Essentials
+September 2011	['Atul Kumar']	9781849682688	Oracle Identity and Access Manager 11g for Administrators
+September 2011	['Enti Sandeep Reddy']	9781849681384	Getting Started with Oracle Hyperion Planning 11
+September 2011	['Terence Craig', 'Mary  E. Ludloff']	0636920020103	Privacy and Big Data
+September 2011	['Noah Iliinsky', 'Julie Steele']	0636920022060	Designing Data Visualizations
+September 2011	['DJ Patil']	0636920022770	Building Data Science Teams
+September 2011	['Mike Loukides']	0636920022916	The Evolution of Data Products
+September 2011	['Pete Warden']	0636920022466	Big Data Glossary
+September 2011	['Tom Laszewski', 'Jason Williamson', 'Prakash Nauduri']	9781849682206	Oracle Information Integration, Migration, and Consolidation
+August 2011	['Josh Shaul', 'Aaron Ingram']	9781597491983	Practical Oracle Security
+August 2011	['Henrik Walther', 'Mark Horninger', 'Chris Adams']	9781597492195	The Best Damn Exchange, SQL and IIS Book Period
+August 2011	["O'Reilly Radar Team"]	0636920022640	Big Data Now: Current Perspectives from O'Reilly Radar
+August 2011	['Lars George']	0636920014348	HBase: The Definitive Guide
+August 2011	['EdD Ron Cody']	9781607648000	SAS Statistics by Example
+August 2011	['Shashank Tiwari']	9780470942246	Professional NoSQL
+August 2011	['Yemi Onigbode']	9781849683104	Oracle E-Business Suite 12 Financials Cookbook
+August 2011	['Tomislav Piasevoli']	9781849681308	MDX with Microsoft SQL Server 2008 R2 Analysis Services Cookbook
+July 2011	['Tiago Macedo', 'Fred Oliveira']	0636920020127	Redis Cookbook
+July 2011	['Yannick Ongena']	9781849682282	Oracle WebCenter 11g PS3 Administration Cookbook
+July 2011	['Rafal Kuc']	9781849512183	Apache Solr 3.1 Cookbook
+July 2011	['Jeremy Kashel', 'Tim Kent', 'Martyn Bullerwell']	9781849680509	Microsoft SQL Server 2008 R2 Master Data Services
+July 2011	['Edward Capriolo']	9781849515122	Cassandra High Performance Cookbook
+July 2011	['John Lovett']	9780470936276	Social Media Metrics Secrets
+June 2011	['Ranjeet Yadav']	9781849681469	Oracle PeopleSoft Enterprise Financial Management 9.1 Implementation
+June 2011	['Adrian Sergio Pulvirenti', 'Maria Carina Roldan']	9781849515245	Pentaho Data Integration 4 Cookbook
+June 2011	['Jesper Schmidt Hansen']	9781849513326	GNU Octave
+June 2011	['Nathan Yau']	9780470944882	Visualize This
+June 2011	['Sten E. Vesterli']	9781849681889	Oracle ADF Enterprise Application Development-Made Simple
+June 2011	['Jiawei Han', 'Micheline Kamber', 'Jian Pei']	9780123814791	Data Mining: Concepts and Techniques, 3rd Edition
+May 2011	['Satya Shyam K Jayanty']	9781849681445	Microsoft SQL Server 2008 R2 Administration Cookbook
+May 2011	['David Lai', 'Xavier Hacking']	9781849681780	SAP BusinessObjects Dashboards 4.0 Cookbook
+May 2011	['Ben Prusinski', 'Syed Jaffer Hussain']	9781849682664	Oracle 11g R1/R2 Real Application Clusters Essentials
+May 2011	['Ashwin Kumar Karkala', 'Govinda Raj Sambamurthy']	9781849682169	Oracle Enterprise Manager Grid Control 11g R1: Business Service Management
+May 2011	['Bob Griesemer']	9781849683449	Oracle Warehouse Builder 11g R2: Getting Started 2011
+May 2011	['Charles Tupper']	9780123851260	Data Architecture
+April 2011	['Alexander Hansal']	9781849681865	Oracle Siebel CRM 8 Developer's Handbook
+April 2011	['Kristina Chodorow']	0636920019893	50 Tips and Tricks for MongoDB Developers
+April 2011	['Mark Horninger']	9781597491969	How to Cheat at Securing SQL Server 2005
+April 2011	['Mike Loukides']	0636920025160	What Is Data Science?
+April 2011	['Conrad Carlberg']	9780764575938	Sales Forecasting For Dummies
+March 2011	['Alex Kriegel']	9781118002674	Discovering SQL
+March 2011	['Bradley Holt']	0636920018407	Scaling CouchDB
+March 2011	['Mark Lancaster']	9781849681063	Oracle Application Express 4.0 with Ext JS
+March 2011	['Gordon S. Linoff', 'Michael J. Berry']	9780470650936	Data Mining Techniques, 3rd Edition
+March 2011	['Len Silverston', 'Paul Agnew']	9780470178454	The Data Model Resource Book
+February 2011	['Timothy Trimble']	9780471786481	FileMaker Pro Design and Scripting For Dummies
+February 2011	['Allen G. Taylor']	9780470929964	SQL All-in-One For Dummies, 2nd Edition
+February 2011	['John P Jeffries']	9781849682008	Oracle GoldenGate 11g Implementer's guide
+February 2011	['Toby J. Teorey', 'Sam S. Lightstone', 'Tom Nadeau', 'H. V. Jagadish']	9780123820204	Database Modeling and Design, 5th Edition
+February 2011	['Matthew West']	9780123751065	Developing High Quality Data Models
+February 2011	['Swain Scheps']	9780470127230	Business Intelligence For Dummies
+February 2011	['Ian H. Witten', 'Eibe Frank', 'Mark A. Hall']	9780123748560	Data Mining: Practical Machine Learning Tools and Techniques, 3rd Edition
+January 2011	['Matthew A. Russell']	0636920018261	21 Recipes for Mining Twitter
+January 2011	['Kristina Chodorow']	0636920018308	Scaling MongoDB
+January 2011	['Bradley Holt']	0636920018247	Writing and Querying MapReduce Views in CouchDB
+January 2011	['Pete Warden']	0636920018254	Data Source Handbook
+January 2011	['Hemantgiri S. Goswami']	9781849681223	Microsoft SQL Server 2008 High Availability
+January 2011	['John R. Talburt']	9780123819727	Entity Resolution and Information Quality
+December 2010	['Denny Cherry']	9781597496254	Securing SQL Server
+December 2010	['Michel van Zoest', 'Marcel van der Plas']	9781849681346	Oracle APEX 4.0 Cookbook
+December 2010	['Muneeb A. Siddiqui']	9781849680646	Oracle E-Business Suite R12 Supply Chain Management
+November 2010	['David Loshin']	9780123737175	The Practitioner's Guide to Data Quality Improvement
+November 2010	['Joe Celko']	9780123820228	Joe Celko's SQL for Smarties, 4th Edition
+November 2010	['John M. Hughes']	9780596809577	Real World Instrumentation with Python
+November 2010	['Eben Hewitt']	0636920010852	Cassandra: The Definitive Guide
+November 2010	['Philipp K. Janert']	9780596802363	Data Analysis with Open Source Tools
+November 2010	['Jonathan Gennick']	0636920013471	SQL Pocket Guide, 3rd Edition
+October 2010	['Simon Riggs', 'Hannu Krosing']	9781849510288	PostgreSQL 9 Admin Cookbook
+October 2010	['Rick Wicklin']	9781607646631	Statistical Programming with SAS/IML Software
+October 2010	['Gregory Smith']	9781849510301	PostgreSQL 9.0 High Performance
+October 2010	['Yuli Vasiliev']	9781849681186	Oracle Business Intelligence : The Condensed Guide to Analysis and Reporting
+October 2010	['Marc Delisle']	9781849513548	Mastering phpMyAdmin 3.3.x for Effective MySQL Management
+October 2010	['Plinio Arbizu', 'Ashok Aggarwal']	9781847195807	Web 2.0 Solutions with Oracle WebCenter 11g
+September 2010	['Roland Bouman', 'Jos van Dongen']	9780470484326	Pentaho Solutions
+September 2010	['Edward J. Cody']	9781849680363	The Business Analyst's Guide to Oracle Hyperion Interactive Reporting 11
+September 2010	['Heidi Buelow', 'Manoj Das', 'Manas Deb', 'Prasen Palvankar', 'Meera Srinivasan']	9781849681681	Getting Started with Oracle BPM Suite 11gR1
+September 2010	['Harish Gaur', 'Markus Zirn']	9781847198327	Oracle Fusion Middleware Patterns
+August 2010	['Matt Casters', 'Roland Bouman', 'Jos van Dongen']	9780470635179	Pentaho Kettle Solutions
+August 2010	['Andrew Hutchings', 'Sergei Golubchik']	9781849510608	MySQL 5.1 Plugin Development
+August 2010	['Narayan Bharadwaj']	9781847197740	BPEL PM and OSB operational management with Oracle Enterprise Manager 10g Grid Control
+August 2010	['Tom Johnston', 'Randall Weis']	9780123750419	Managing Time in Relational Databases
+August 2010	['Pav Kumar-Chatterjee']	9781849681544	IBM InfoSphere Replication Server and Data Event Publisher
+August 2010	['Justin Cutroni']	9780596158019	Google Analytics
+August 2010	['Dmitri Khanine']	9781849680387	The Oracle Universal Content Management Handbook
+August 2010	['Jay A. Kreibich']	9780596521196	Using SQLite
+August 2010	['Alexander Hansal']	9781849680561	Oracle Siebel CRM 8 Installation and Management
+July 2010	['Jack E. Olson']	9780123747204	Database Archiving
+July 2010	['W. H. Inmon', 'Derek Strauss', 'Genia Neushloss']	9780123743190	DW 2.0: The Architecture for the Next Generation of Data Warehousing
+July 2010	['David Loshin']	9780123742254	Master Data Management
+July 2010	['Mamdouh Refaat']	9780123735775	Data Preparation for Data Mining Using SAS
+July 2010	['Terry Halpin', 'Tony Morgan']	9780123735683	Information Modeling and Relational Databases, 2nd Edition
+July 2010	['Joe Celko']	9780123695123	Joe Celko's Analytics and OLAP in SQL
+July 2010	['Sam S. Lightstone', 'Toby J. Teorey', 'Tom Nadeau']	9780123693891	Physical Database Design
+July 2010	['Michael J. Donahoo', 'Gregory D. Speegle']	9780122205316	SQL
+July 2010	['David C. Hay']	9780120887989	Data Model Patterns: A Metadata Map
+July 2010	['John Ward']	9781849511667	BIRT 2.6 Data Analysis and Reporting
+July 2010	['Antony Reynolds', 'Matt Wright']	9781849680189	Oracle SOA Suite 11g R1 Developer's Guide
+July 2010	['Bilal Siddiqui']	9781849510769	JasperReports 3.6 Development Cookbook
+June 2010	['Bill Karwin']	9781934356555	SQL Antipatterns
+June 2010	['Abhishek Sanghani']	9781849680349	IBM Cognos 8 Report Studio Cookbook
+June 2010	['Marcus Hirt', 'Marcus Lagergren']	9781847198068	Oracle JRockit
+June 2010	['Arie Geller', 'Matthew Lyon']	9781847194527	Oracle Application Express 3.2
+June 2010	['Prabhakar Chaganti', 'Rich Helms']	9781847197344	Amazon SimpleDB Developer Guide
+May 2010	['Susan Prosser', 'Stuart Gripman']	0636920002642	FileMaker Pro 11: The Missing Manual
+May 2010	['Vivek Bhaskaran', 'Jennifer LeClaire']	9780470527962	Online Surveys For Dummies
+May 2010	['Tom Carpenter']	9780470554203	SQL Server 2008 Administration
+April 2010	['Alex Davies']	9781847199942	High Availability MySQL Cookbook
+April 2010	['Julie Steele', 'Noah Iliinsky']	0636920000617	Beautiful Visualization
+April 2010	['Maria Carina Roldan']	9781847199546	Pentaho 3.2 Data Integration
+April 2010	['April C. Sims']	9781849680004	Oracle Database 11g - Underground Advice for Database Administrators
+March 2010	['Susan J. Slaughter', 'Lora D. Delwiche']	9781599947266	The Little SAS Book for Enterprise Guide 4.2
+March 2010	['Aleksandar Seovic', 'Mark Falco', 'Patrick Peralta']	9781847196125	Oracle Coherence 3.5
+March 2010	['Paul D. Allison']	9781599946405	Survival Analysis Using SAS
+March 2010	['Biju Thomas']	9780470395127	OCA: Oracle Database 11g Administrator Certified Associate Study Guide
+March 2010	['Kapil Sharma', 'Ashutosh Mutsaddi']	9781118791431	Configuring SAP ERP Sales and Distribution
+March 2010	['Paul Turley', 'Robert M. Bruckner']	9780470563113	Microsoft SQL Server Reporting Services Recipes
+March 2010	['Daniel Schneller', 'Udo Schwedt']	9781847197962	MySQL Admin Cookbook
+March 2010	['EdD Ron Cody']	9781607643401	SAS Functions by Example, Second Edition, 2nd Edition
+March 2010	['Ken Withee']	9780470526934	Microsoft Business Intelligence For Dummies
+March 2010	['Stephen McDaniel', 'Chris Hemedinger']	9780470539682	SAS For Dummies, 2nd Edition
+February 2010	['Glenn Walker', 'Jack Shostak']	9781607642282	Common Statistical Methods for Clinical Research with SAS Examples, Third Edition, 3rd Edition
+February 2010	['Ralph Kimball', 'Margy Ross']	9780470563106	The Kimball Group Reader
+January 2010	['Mark Jeffery']	9780470504543	Data-Driven Marketing
+January 2010	['Douglas E. Faries', 'Robert Obenchain', 'Josep Maria Haro', 'Andrew C. Leon']	9781607642275	Analysis of Observational Health Care Data Using SAS
+January 2010	['Ann L. R. McKinnell', 'Eric Yen']	9781847199706	Oracle 11g Streams Implementer's Guide
+January 2010	['J. Chris Anderson', 'Jan Lehnardt', 'Noah Slater']	9780596155902	CouchDB: The Definitive Guide
+January 2010	['Allen G. Taylor']	9780470557419	SQL For Dummies, 7th Edition
+January 2010	['Christian  Bolton', 'Justin  Langford', 'Brent Ozar', 'James Rowland-Jones', 'Jonathan Kehayias', 'Cindy Gross', 'Steven Wort']	9780470484289	Professional SQL Server 2008 Internals and Troubleshooting
+December 2009	['EMC Education Services']	9780470294215	Information Storage and Management
+December 2009	['Sivakumar  Harinath', 'Robert  Zare', 'Sethu  Meenakshisundaram', 'Matt  Carroll', 'Denny   Guang-Yeu Lee']	9780470247983	Professional Microsoft SQL Server Analysis Services 2008 with MDX 
+December 2009	['Sue Harper']	9781847196262	Oracle SQL Developer 2.1
+December 2009	['Arvind Maheshwari', 'Debu  Panda']	9781847198341	Middleware Management with Oracle Enterprise Manager Grid Control 10g R5
+November 2009	['Robert Patrick', 'Gregory Nyberg', 'Philip Aston']	9780470484302	Professional Oracle WebLogic Server
+October 2009	['Erik Veerman', 'Jessica  M.  Moss', 'Brian Knight', 'Jay Hackney']	9780470525760	Microsoft SQL Server 2008 Integration Services
+October 2009	["Demed L'Her", 'Heidi Buelow', 'Jayaram Kasi', 'Manas Deb', 'Prasen Palvankar']	9781847199782	Getting Started With Oracle SOA Suite 11g R1 - A Hands-On Tutorial
+September 2009	['Dirk Manuel']	9781849680165	Oracle User Productivity Kit 3.5
+September 2009	['Joe Celko']	9780123747228	Joe Celko's Data, Measurements and Standards in SQL
+September 2009	['Jan L. Harrington']	9780123747303	Relational Database Design and Implementation, 3rd Edition
+August 2009	['Paul Nielsen', 'Uttam Parui']	9780470257043	Microsoft SQL Server 2008 Bible
+August 2009	['David Smiley', 'Eric Pugh']	9781847195883	Solr 1.4 Enterprise Search Server
+August 2009	['Bob Griesemer']	9781847195746	Oracle Warehouse Builder 11g: Getting Started
+July 2009	['Jason Edwards', 'Ned Riaz', 'Rich Babaran']	9781847196842	IBM Cognos 8 Planning
+July 2009	['Douwe Pieter van den Bos']	9781847197764	Oracle Application Express Forms Converter
+July 2009	['Philip A. Bernstein', 'Eric Newcomer']	9781558606234	Principles of Transaction Processing, 2nd Edition
+July 2009	['Michael Milton']	9780596153946	Head First Data Analysis
+July 2009	['Alberto Ferrari', 'Chris Webb', 'Marco Russo']	9781847197221	Expert Cube Development with Microsoft SQL Server 2008 Analysis Services
+July 2009	['Tarry Singh']	9781847197122	Oracle VM Manager 2.1.2
+July 2009	['Toby Segaran', 'Jeff Hammerbacher']	9780596157128	Beautiful Data
+June 2009	['Brian Knight', 'Devin Knight', 'Mike Davis']	9780470496923	Knight's 24-Hour Trainer
+June 2009	['Hector R. Madrid']	9781847196286	Oracle 10g/11g Data and Database Management Utilities
+June 2009	['Joseph Sydney Gomez', 'Sarma Anantapantula']	9781847196866	Oracle Essbase 9 Implementation Guide
+June 2009	['Justin Clarke']	9781597499637	SQL Injection Attacks and Defense, 2nd Edition
+June 2009	['Ronald Rood']	9781847195982	Mastering Oracle Scheduler in Oracle 11g Databases
+June 2009	['Steven Bird', 'Ewan Klein', 'Edward Loper']	9780596516499	Natural Language Processing with Python
+May 2009	['Tom White']	9780596521981	Hadoop: The Definitive Guide
+May 2009	['Robert G. Freeman', 'Charles A. Pack', 'Doug Stuns']	9780470395134	OCP: Oracle Database 11g Administrator Certified Professional Study Guide
+May 2009	['Laura Reeves']	9780470176382	A Manager's Guide to Data Warehousing
+May 2009	['Ananthakumar  Muthusamy', 'Yan  Pan']	9780470477281	Microsoft SQL Server 2008 Administration with Windows PowerShell
+April 2009	['Joseph Schmuller Ph.D.']	9780470454060	Statistical Analysis with Excel For Dummies, 2nd Edition
+April 2009	['Steven Wort', 'Christian  Bolton', 'Justin  Langford', 'Michael  Cape', 'Joshua  J.  Jin', 'Douglas Hinson', 'Haidong Ji', 'Paul  A.  Mestemaker', 'Arindam  Sen']	9780470176399	Professional SQL Server 2005 Performance Tuning
+April 2009	['Robert Vieira']	9780470257029	Professional Microsoft SQL Server 2008 Programming
+April 2009	['Ray Cologon']	9780470429006	FileMaker Pro 10 Bible
+April 2009	['Sheeri K. Cabral', 'Keith Murphy']	9780470416914	MySQL Administrator's Bible
+April 2009	['Alan Beaulieu']	9780596520847	Learning SQL, 2nd Edition
+April 2009	['Ralph Kimball', 'Margy Ross', 'Warren Thornthwaite', 'Joy Mundy', 'Bob Becker']	9780470149775	The Data Warehouse Lifecycle Toolkit, 2nd Edition
+April 2009	['Jamie MacLennan', 'ZhaoHui Tang', 'Bogdan Crivat']	9780470277744	Data Mining with Microsoft SQL Server 2008
+April 2009	['Rod Stephens']	9780470385494	Beginning Database Design Solutions
+March 2009	['Jayaram Krishnaswamy']	9781847196187	Learning SQL Server 2008 Reporting Services
+March 2009	['Antony Reynolds', 'Matt Wright']	9781847193551	Oracle SOA Suite Developer's Guide
+March 2009	['Ayman Hourieh']	9781847196781	Django 1.0 Website Development
+February 2009	['Deepak Vohra']	9781847196668	Processing XML documents with Oracle JDeveloper 11g
+February 2009	['Thomas C. Hammergren']	9780470407479	Data Warehousing For Dummies, 2nd Edition
+February 2009	['Michael N. DeMers']	9780470236826	GIS For Dummies
+January 2009	['Mana Takahashi', 'Shoko Azuma', 'Trend-Pro Co.', 'Ltd.']	9781593271909	The Manga Guide to Databases
+January 2009	['Jim McBee']	9780470417331	Mastering Microsoft Exchange Server 2007 SP1, 2nd Edition
+January 2009	['Susan Prosser', 'Geoff Coffey']	9780596154240	FileMaker Pro 10: The Missing Manual
+January 2009	['Michael Lee', 'Gentry Bieker']	9780470289044	Mastering SQL Server 2008
+December 2008	['Chris Zeis', 'Chris Ruel', 'Wessler']	9780470277652	Oracle 11g For Dummies
+December 2008	['Rudy Limeback']	9780980455250	Simply SQL
+December 2008	['Paul Turley', 'Thiago Silva', 'Bryan C. Smith', 'Ken Withee']	9780470242018	Professional Microsoft SQL Server 2008 Reporting Services
+December 2008	['Robert Vieira']	9780470257012	Beginning Microsoft SQL Server 2008 Programming
+December 2008	['Rick Greenwald']	9780470388372	Beginning Oracle Application Express
+December 2008	['Paul Turley', 'Dan Wood']	9780470257036	Beginning T-SQL with Microsoft SQL Server 2005 and 2008
+November 2008	['Kevin Kline']	9780596518851	SQL in a Nutshell, 3rd Edition
+November 2008	['Joey Hirao']	9781597492843	SAP Security Configuration and Deployment
+November 2008	['Brian Knight', 'Ketan Patel', 'Wayne Snyder', 'Ross LoForte', 'Steven Wort']	9780470247969	Professional Microsoft SQL Server 2008 Administration
+October 2008	['Toby J. Teorey', 'Stephen Buxton', 'Lowell Fryman', 'Ralf Hartmut G\xc3\xbcting', 'Terry Halpin', 'Jan L. Harrington', 'W. H. Inmon', 'Sam S. Lightstone', 'Jim Melton', 'Tony Morgan', 'Thomas D. Nadeau', "Bonnie O'Neil", "Elizabeth O'Neil", "Patrick O'Neil", 'Markus Schneider', 'Graeme Simsion', 'Graham Witt']	9780123746306	Database Design: Know It All
+October 2008	['Brian Knight', 'Erik Veerman', 'Grant Dickinson', 'Douglas Hinson', 'Darren Herbold']	9780470247952	Professional Microsoft SQL Server 2008 Integration Services
+September 2008	['Mike  Chapple']	9780470224656	Microsoft SQL Server 2008 For Dummies
+September 2008	['Jason Williamson', 'Tom Laszewski']	9781847194640	Oracle Modernization Solutions
+September 2008	['Danette McGilvray']	9780123743695	Executing Data Quality Projects
+August 2008	['Stephane Faroult', "Pascal L'Hermite"]	9780596514976	Refactoring SQL Applications
+July 2008	['Sitaraman Lakshminarayanan']	9781847193834	Oracle Web Services Manager
+June 2008	['Rick Copeland']	9780596516147	Essential SQLAlchemy
+May 2008	['Len Silverston']	9780471380238	The Data Model Resource Book
+April 2008	['Deepak Vohra']	9781847194305	JDBC 4.0 and Oracle JDeveloper for J2EE Development
+April 2008	['Russell J.T. Dyer']	9780596514334	MySQL in a Nutshell, 2nd Edition
+March 2008	['John Kohl']	9781599946573	The Global English Style Guide
+February 2008	['John Ward']	9781847191090	Practical Data Analysis and Reporting with BIRT
+January 2008	['Joe Celko']	9780123741370	Joe Celko's Thinking in Sets: Auxiliary, Temporal, and Virtual Tables in SQL
+December 2007	['Jayaram Krishnaswamy']	9781847193315	SQL Server Integration Services Using Visual Studio 2005
+December 2007	['Ben Fry']	9780596514556	Visualizing Data
+October 2007	['Gordon S. Linoff']	9780470099513	Data Analysis Using SQL and Excel
+October 2007	['Steven Feuerstein']	9780596514105	Oracle PL/SQL Best Practices, 2nd Edition
+August 2007	['Justin Cutroni']	9780596514969	Google Analytics
+August 2007	['Lynn Beighley']	9780596526849	Head First SQL
+August 2007	['Jason Burby', 'Shane Atchison']	9780470124741	Actionable Web Analytics
+August 2007	['Geoff Coffey', 'Susan Prosser']	9780596514136	FileMaker Pro 9: The Missing Manual
+July 2007	['Avinash  Kaushik']	9780470130650	Web Analytics
+July 2007	['George Reese']	9780596514266	MySQL Pocket Reference, 2nd Edition
+May 2007	['Joan M. Johnson']	9780596550059	Understanding Oracle Clinical
+April 2007	['David Litchfield']	9780470080221	The Oracle Hacker's Handbook
+April 2007	['Sasha Pachev']	9780596009571	Understanding MySQL Internals
+April 2007	['Robert Stackowiak', 'Joseph Rayman', 'Rick Greenwald']	9780471919216	Oracle Data Warehousing and Business Intelligence Solutions
+March 2007	['Priscilla Walmsley']	9780596006341	XQuery
+March 2007	['Bill Hamilton']	9780596513757	SQL Server Integration Services
+March 2007	['EdD Ron Cody']	9781599941653	Learning SAS by Example
+March 2007	['Brian Knight', 'Allan Mitchell', 'Darren Green', 'Douglas Hinson', 'Kathi Kellenberger', 'Andy Leonard', 'Erik Veerman', 'Jason Gerard', 'Haidong Ji', 'Mike Murphy']	9780764584350	Professional SQL Server 2005 Integration Services
+March 2007	['Brian Knight', 'Ketan Patel', 'Wayne Snyder', 'Jean-Claude Armand', 'Ross LoForte', 'Brad McGehee', 'Steven Wort', 'Joe Salvatore', 'Haidong Ji']	9780470055205	Professional SQL Server 2005 Administration
+February 2007	['Derek Comingore', 'Douglas Hinson']	9780470054031	Professional SQL Server 2005 CLR Programming
+February 2007	['Dan Wood', 'Chris Leiter', 'Paul Turley']	9780470047040	Beginning SQL Server 2005 Administration
+February 2007	['Alex Dmitrienko', 'Christy Chuang-Stein Ph.D.', "Ralph B. D'Agostino Sr.", 'Ph.D.']	9781590478868	Pharmaceutical Statistics Using SAS
+January 2007	['Karli Watson']	9780470044063	Beginning C# 2005 Databases
+December 2006	['Mary E. Tyler', 'Jerri L. Ledford']	9780470053850	Google Analytics
+November 2006	['Bill Hamilton']	9780596529413	SQL Server 2005 Reporting Essentials
+November 2006	['Marc Delisle']	9781904811305	Creating your MySQL Database: Practical Design Tips and Techniques
+November 2006	['Andrew Cumming', 'Gordon  Russell']	9780596527990	SQL Hacks
+November 2006	['Kevin McDonald', 'Andreas Wilmsmeier', 'David C. Dixon', 'W. H. Inmon']	9780764596377	Mastering the SAP Business Information Warehouse, 2nd Edition
+November 2006	['Seyed M.M. Tahaghoghi', 'Hugh E. Williams']	9780596008642	Learning MySQL
+November 2006	['Phil Mason']	9781590477021	In the Know...SAS® Tips and Techniques From Around the Globe, Second Edition
+October 2006	['Joe Hummel']	9780596528416	LINQ: The Future of Data Access in C# 3.0
+October 2006	['Colleen McCue']	9780750677967	Data Mining and Predictive Analysis
+October 2006	['Joe Celko']	9780123735966	Joe Celko's SQL Puzzles and Answers, Second Edition, 2nd Edition
+October 2006	['Christopher Adamson']	9780471777090	Mastering Data Warehouse Aggregates
+August 2006	['C.J. Date']	9780596527983	The Relational Database Dictionary
+August 2006	['Michael Rosenblum', 'Paul Dorsey']	9780764599576	Oracle PL / SQL For Dummies
+July 2006	['Allen G. Taylor']	9780470046524	SQL For Dummies®, 6th Edition
+July 2006	['Susan Prosser']	9780596528232	FileMaker 8.5: Integrating the Web
+May 2006	['Paul Turley', 'Todd Bryant', 'James Counihan', 'Dave DuVarney']	9780764584978	Professional SQL Server 2005 Reporting Services, 2nd Edition
+May 2006	['Joy Mundy', 'Warren Thornthwaite']	9780471267157	The Microsoft Data Warehouse Toolkit
+May 2006	['George Spofford', 'Sivakumar  Harinath', 'Christopher Webb', 'Dylan Hai Huang', 'Francesco Civardi']	9780471748083	MDX Solutions, 2nd Edition
+April 2006	['Sikha Saha Bagui', 'Richard Walsh Earp']	9780596102159	Learning SQL on SQL Server 2005
+April 2006	['Jonathan Gennick']	9780596526887	SQL Pocket Guide, 2nd Edition
+April 2006	['Sivakumar  Harinath', 'Stephen  R.  Quinn']	9780764579189	Professional SQL Server Analysis Services 2005 with MDX
+April 2006	['Scott Klein']	9780764597923	Professional SQL Server 2005 XML
+March 2006	['Guy Harrison', 'Steven Feuerstein']	9780596100896	MySQL Stored Procedure Programming
+March 2006	['Stephane Faroult', 'Peter Robson']	9780596008949	The Art of SQL
+March 2006	['Mike Gunderloy', 'Joseph L. Jorden', 'David W. Tschanz']	9780782143805	Mastering Microsoft SQL Server 2005
+February 2006	['Bill Hamilton']	9780596004798	Programming SQL Server 2005
+February 2006	['Ramon C. Littell Ph.D.', 'Walter W. Stroup Ph.D.', 'George A. Milliken Ph.D.', 'Russell D. Wolfinger Ph.D.', 'Oliver Schabenberger Ph.D.']	9781590475003	SAS for Mixed Models, Second Edition, 2nd Edition
+February 2006	['Mike Gunderloy', 'Joseph L. Jorden']	9780782126273	Mastering SQL Server 2000
+February 2006	['Mike Gunderloy', 'Tim Sneath']	9780782129571	SQL Server's Developer's Guide to OLAP with Analysis Services
+February 2006	['Bob Bryla']	9780782141894	Oracle9i DBA JumpStart
+February 2006	['Bob Bryla']	9780782143720	Oracle Database Foundations
+February 2006	['Bob Bryla', 'Biju Thomas']	9780782143553	OCP: Oracle 10g New Features for Administrators Study Guide
+February 2006	['Rajesh  George', 'Lance  Delano']	9780764589232	Wrox's SQL Server 2005 Express Edition Starter Kit
+February 2006	['Robert Vieira']	9780764584336	Beginning SQL Server 2005 Programming
+January 2006	['Paul Turley']	9780764579554	Beginning Transact-SQL with SQL Server 2000 and 2005
+December 2005	['Anthony Molinaro']	9780596009762	SQL Cookbook
+December 2005	['Mark Robinson']	9780764589133	Microsoft SQL Server 2005 Reporting Services For Dummies
+October 2005	['Arup Nanda', 'Steven Feuerstein']	9780596005870	Oracle PL/SQL for DBAs
+October 2005	['ZhaoHui Tang', 'Jamie MacLennan']	9780471462613	Data Mining with SQL Server 2005
+October 2005	['W. H. Inmon']	9780764599446	Building the Data Warehouse, 4th Edition
+September 2005	['Geoff Coffey', 'Susan Prosser']	9780596005795	FileMaker Pro 8: The Missing Manual
+September 2005	['Ralf Hartmut G\xc3\xbcting', 'Markus Schneider']	9780120887996	Moving Objects Databases
+August 2005	['Steven Feuerstein', 'Bill Pribyl']	9780596009779	Oracle PL/SQL Programming, 4th Edition
+August 2005	['Alan Beaulieu']	9780596007270	Learning SQL
+August 2005	['David C. Kreines']	9780596100490	Oracle DBA Pocket Guide
+July 2005	['Ian H. Witten', 'Eibe Frank']	9780120884070	Data Mining, 2nd Edition
+May 2005	['Jeff Smith', 'Patrick McGrath', 'Bert Scalzo']	9780596009717	Toad Pocket Reference for Oracle, 2nd Edition
+May 2005	['Joe Celko']	9780120887972	Joe Celko's SQL Programming Style
+May 2005	['C.J. Date']	9780596100124	Database in Depth
+May 2005	['Russell J.T. Dyer']	9780596007898	MySQL in a Nutshell
+April 2005	['Arie Jones', 'Ryan K. Stephens', 'Ronald R. Plew', 'Robert F. Garrett', 'Alex Kriegel']	9780764569012	SQL Functions Programmer's Reference
+March 2005	['Robert Sheldon', 'Geoff Moes']	9780764579509	Beginning MySQL
+March 2005	['Paul D. Allison']	9781590475683	Fixed Effects Regression Methods for Longitudinal Data Using SAS
+February 2005	['Alex Dmitrienko', 'Geert Molenberghs Ph.D', 'Christy Chuang-Stein Ph.D.', 'Walter W. Offen Ph.D.']	9781590475041	Analysis of Clinical Trials Using SAS
+December 2004	['Graeme Simsion', 'Graham Witt']	9780126445510	Data Modeling Essentials, 3rd Edition
+November 2004	['Robert Laberge', 'Srdjan Vujosevic']	9780471216452	Building PDA Databases for Wireless and Mobile Development
+November 2004	['Jonathan Gennick']	9780596007461	Oracle SQL*Plus: The Definitive Guide, 2nd Edition
+November 2004	['Ralph Kimball', 'Joe Caserta']	9780764567575	The Data Warehouse ETL Toolkit
+November 2004	['Sanjay Mishra']	9780596008994	Oracle Utilities Pocket Reference
+November 2004	['Jonathan Gennick']	9780596008857	Oracle SQL*Plus Pocket Reference, 3rd Edition
+November 2004	['Howard J. Rogers']	9780596009557	New Features in Oracle 9i
+October 2004	['VLDB']	9780120884698	Proceedings 2004 VLDB Conference
+September 2004	['Kevin Kline']	9780596004811	SQL in a Nutshell
+August 2004	['David C. Kreines']	9780596007706	Oracle Initialization Parameters Pocket Reference
+August 2004	['Mark Chaffin', 'Brian Knight', 'Todd Robinson']	9780764543685	Professional SQL Server 2000 DTS (Data Transformation Services)
+August 2004	['Rick Greenwald', 'Robert Stackowiak', 'Donald Bales']	9780596006211	Oracle Application Server 10g Essentials
+June 2004	['Sanjay Mishra', 'Alan Beaulieu']	9780596006327	Mastering Oracle SQL, 2nd Edition
+May 2004	['Allen G. Taylor']	9780764571374	Crystal Reports 10 For Dummies
+May 2004	['Paul Turley', 'Todd Bryant', 'James Counihan', 'George McKee', 'Dave DuVarney']	9780764568787	Professional SQL Server Reporting Services
+April 2004	['Michael J. Berry', 'Gordon S. Linoff']	9780471470649	Data Mining Techniques, 2nd Edition
+April 2004	['Jeremy D. Zawodny', 'Derek J. Balling']	9780596003067	High Performance MySQL
+April 2004	['Steven Feuerstein', 'Bill Pribyl', 'Chip Dawes']	9780596006808	Oracle PL/SQL Language Pocket Reference, 3rd Edition
+March 2004	['David Marco', 'Michael Jennings']	9780471081777	Universal Meta Data Models
+February 2004	['Rick Greenwald', 'Robert Stackowiak', 'Jonathan Stern']	9780596005856	Oracle Essentials, 3rd Edition
+December 2003	['VLDB']	9780127224428	Proceedings 2003 VLDB Conference
+November 2003	['Scott Ambler']	9780471202837	Agile Database Techniques
+November 2003	['Dan Tow']	9780596005733	SQL Tuning
+September 2003	['Cary Millsap', 'Jeff Holt']	9780596005276	Optimizing Oracle Performance
+September 2003	['Terry Halpin', 'Ken Evans', 'Pat Hallock', 'Bill Maclean']	9781558609198	Database Modeling with Microsoft® Visio for Enterprise Architects
+September 2003	['Jonathan Gennick', 'Peter Linsley']	9780596006013	Oracle Regular Expressions Pocket Reference
+August 2003	['Claudia Imhoff', 'Nicholas Galemmo', 'Jonathan G. Geiger']	9780471324218	Mastering Data Warehouse Design
+June 2003	['Mike Young', 'Curtis W. Young']	9780471219705	Mastering SQL Server 2000 Security
+June 2003	['Dan Woods']	9780596005528	Packaged Composite Applications
+May 2003	['Jan L. Harrington']	9780123756978	SQL Clearly Explained, 3rd Edition
+April 2003	['David C. Kreines']	9780596005177	Oracle Data Dictionary Pocket Reference
+February 2003	['Michael L. Gonzales']	9780471133056	IBM Data Warehousing
+February 2003	['George Reese']	9780596004460	MySQL Pocket Reference
+February 2003	['John Poole', 'Dan Chang', 'Douglas Tolbert', 'David Mellor']	9780471202431	Common Warehouse Metamodel Developer's Guide
+February 2003	['Alexander (Sasha) Pachev']	9780471269229	MySQL Enterprise Solutions
+January 2003	['Jack E. Olson']	9781558608917	Data Quality
+December 2002	['Rick Greenwald', 'David C. Kreines']	9780596003364	Oracle in a Nutshell
+December 2002	['VLDB']	9781558608696	Proceedings 2002 VLDB Conference
+December 2002	['C. J. Date', 'Hugh Darwen', 'Nikos Lorentzos']	9781558608559	Temporal Data & the Relational Model
+November 2002	['Michael R. Ault']	9780471218869	Oracle Administration and Management
+October 2002	['Soumen Chakrabarti']	9781558607545	Mining the Web
+October 2002	['Geoff Ingram']	9780471224365	High-Performance Oracle®
+October 2002	['W. H. Inmon']	9780471081302	Building the Data Warehouse, 3rd Edition
+October 2002	['Tom Soukup', 'Ian Davidson']	9780471149996	Visual Data Mining
+October 2002	['Kevin McDonald', 'Andreas Wilmsmeier', 'David C. Dixon', 'W. H. Inmon']	9780471219712	Mastering the SAP Business Information Warehouse
+September 2002	['Jim Melton']	9781558606777	Advanced SQL:1999
+September 2002	['Ralph Kimball', 'Margy Ross']	9780471200246	The Data Warehouse Toolkit, 2nd Edition
+August 2002	['Andy Duncan', 'Jared Still']	9780596002107	Perl for Oracle DBAs
+June 2002	['Dennis Shasha', 'Philippe Bonnet']	9781558607538	Database Tuning
+June 2002	['Michael Widenius', 'David Axmark', 'Kaj Arno']	9780596002657	MySQL Reference Manual
+April 2002	['Tim King', 'George Reese', 'Randy Yarger', 'Hugh E. Williams']	9780596002114	Managing & Using MySQL, 2nd Edition
+April 2002	['Jan L. Harrington']	9781558608207	Relational Database Design Clearly Explained, 2nd Edition
+April 2002	['Steve Winder', 'Mike Tooley']	9780750652971	Newnes Data Communications Pocket Book, 4th Edition
+March 2002	['Ramon C. Littell Ph.D.', 'Walter W. Stroup Ph.D.', 'Rudolf J. Freund']	9781590470237	SAS for Linear Models, 4th Edition
+March 2002	['Ales Spetic', 'Jonathan Gennick']	9781565927568	Transact-SQL Cookbook
+January 2002	['Joshua D. Drake', 'John C. Worsley']	9781565928466	Practical PostgreSQL
+January 2002	['Mark Gurry']	9780596002688	Oracle SQL Tuning Pocket Reference
+November 2001	['Donald Bales']	9780596000882	Java Programming with Oracle JDBC
+November 2001	['Bill Pribyl', 'Steven Feuerstein']	9780596001803	Learning Oracle PL/SQL
+November 2001	['Darl Kuhn', 'Scott Schulze']	9780596002336	Oracle RMAN Pocket Reference
+October 2001	['EdD Ron Cody']	9781580259248	Longitudinal Data and SAS
+July 2001	['Liam E. Gumley']	9781558607002	Practical IDL Programming
+May 2001	['David Howe']	9780750650861	Data Analysis for Database Design
+May 2001	['Gerhard Weikum', 'Gottfried Vossen']	9781558605084	Transactional Information Systems
+May 2001	['Jim Melton', 'Alan Simon']	9781558604568	SQL: 1999
+May 2001	['Philippe Rigaux', 'Michel Scholl', 'Agn\xc3\xa8s Voisard']	9781558605886	Spatial Databases
+May 2001	['Alan Simon', 'Steven L. Shaffer']	9781558607132	Data Warehousing And Business Intelligence For e-Commerce
+April 2001	['Jonathan Gennick', 'Sanjay Mishra']	9781565929487	Oracle SQL*Loader: The Definitive Guide
+April 2001	['Terry Halpin']	9781558606722	Information Modeling and Relational Databases
+April 2001	['Steven Feuerstein']	9780596001216	Oracle PL/SQL Best Practices
+April 2001	['Quest Software']	9780596001223	Oracle DBA Checklists Pocket Reference
+April 2001	['Andy Duncan', 'Sean Hull']	9780596000189	Oracle and Open Source
+February 2001	['Donald K. Burleson']	9780596000660	Unix for Oracle DBAs Pocket Reference
+January 2001	['Syngress']	9781928994190	Designing SQL Server 2000 Databases
+December 2000	['Hugo Toledo', 'Jonathan Gennick']	9781565927537	Oracle Net8 Configuration and Troubleshooting
+October 2000	['Klaus R Dittrich', 'Andreas Geppert']	9781558606425	Component Database Systems
+September 2000	['Paul Westerman']	9781558606845	Data Warehousing
+May 2000	['Steven Feuerstein', 'Andrew Odewahn']	9781565926745	Oracle PL/SQL Programming: A Developer's Workbook
+April 2000	['Syngress']	9781928994046	DBAs Guide to Databases Under Linux
+October 1999	['Steve Adams']	9781565925984	Oracle 8i Internal Services
+April 1999	['David C. Kreines', 'Brian Laskey']	9781565925168	Oracle Database Administration: The Essential Refe
+May 1998	['Steven Feuerstein', 'Charles Dye', 'John Beresniewicz']	9781565923751	Oracle Built-in Packages
+March 1997	['Dave Ensor', 'Ian Stevenson']	9781565922686	Oracle Design: The Definitive Guide
+November 1996	['Mark Gurry', 'Peter Corrigan']	9781565922372	Oracle Performance Tuning, 2nd Edition
+September 1992	['Jim Gray', 'Andreas Reuter']	9781558601901	Transaction Processing
+December 2015 (est.)	['Samantha Kleinberg']	0636920033035	Why
+January 2016 (est.)	['Ashley Ohmann', 'Matt Floyd']	9781849694766	Creating Data Stories with Tableau Public
+February 2016 (est.)	['Alex Mandel', 'Anita Graser', 'Victor Olaya']	9781783984961	QGIS 2 Cookbook
