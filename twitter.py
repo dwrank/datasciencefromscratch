@@ -23,10 +23,12 @@ def basic_query(consumer_key, consumer_secret):
 class MyStreamer(TwythonStreamer):
     '''specifies how to interact with the stream'''
     def __init__(self, selfconsumer_key, consumer_secret,
-             access_token, access_token_secret):
+             access_token, access_token_secret,
+             count):
         super(MyStreamer, self).__init__(selfconsumer_key, consumer_secret,
                                          access_token, access_token_secret)
         self.tweets = []
+        self.count = count
         
     def on_success(self, data):
         '''handle data sent by twitter'''
@@ -41,7 +43,7 @@ class MyStreamer(TwythonStreamer):
             pass
         
         # stop when we've collected enough
-        if len(self.tweets) >= 1000:
+        if len(self.tweets) >= self.count:
             self.disconnect()
 
     def on_error(self, status_code, data):
@@ -56,7 +58,8 @@ if __name__ == '__main__':
     #basic_query(json_data['Consumer Key'], json_data['Consumer Secret'])
     
     stream = MyStreamer(json_data['Consumer Key'], json_data['Consumer Secret'],
-                        json_data['Access Token'], json_data['Access Token Secret'])
+                        json_data['Access Token'], json_data['Access Token Secret'],
+                        1000)
     
     # starts consuming public statuses that contain the keyword 'data'
     #stream.statuses.filter(track='data')
@@ -68,4 +71,4 @@ if __name__ == '__main__':
                            for tweet in stream.tweets
                            for hashtag in tweet['entities']['hashtags'])
     
-    print top_hastags.most_common(5)
+    print('Top 5: %s' % str(top_hashtags.most_common(5)))
