@@ -38,7 +38,7 @@ class MyStreamer(TwythonStreamer):
             if data['lang'] == 'en':
                 self.tweets.append(data)
                 print('received tweet #%d: %s' % (len(self.tweets), data['entities']['hashtags'][0]['text']))
-                sys.stdout.flush()
+                #sys.stdout.flush()
         except:
             pass
         
@@ -61,11 +61,17 @@ if __name__ == '__main__':
                         json_data['Access Token'], json_data['Access Token Secret'],
                         1000)
     
-    # starts consuming public statuses that contain the keyword 'data'
-    #stream.statuses.filter(track='data')
-    
-    # if instead we wanted to start consuming a sample of *all* public statuses
-    stream.statuses.sample()
+    while True:
+        try:
+            # starts consuming public statuses that contain the keyword 'data'
+            #stream.statuses.filter(track='data')
+            
+            # if instead we wanted to start consuming a sample of *all* public statuses
+            stream.statuses.sample()
+            if len(stream.tweets) >= stream.count:
+                break
+        except:
+            continue
     
     top_hashtags = Counter(hashtag['text'].lower()
                            for tweet in stream.tweets
