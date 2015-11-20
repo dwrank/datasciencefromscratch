@@ -12,7 +12,7 @@ from collections import Counter
 def sum_of_squares(v):
     return np.dot(v, v)
 
-# magniture
+# magnitude
 def magnitude(v):
     return math.sqrt(sum_of_squares(v))
 
